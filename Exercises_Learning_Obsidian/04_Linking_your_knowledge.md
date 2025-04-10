@@ -37,8 +37,9 @@ AND
 3. **Click on the link**, and a new tab will open where Obsidian will automatically generate the note.
 4. **Expand the right sidebar** → **click on backlinks** *Here, you can view all the backlinks to your note. Currently, you will see the mention in your daily note.*
 
-![](5_expand_right_sidebar.png)
-![](6_backlinks_for_note.png)
+![5_expand_right_sidebar](https://github.com/user-attachments/assets/3cd8e55e-9b86-4280-bada-87cb2a42969c)
+
+![6_backlinks_for_note](https://github.com/user-attachments/assets/2ca37f3a-0cff-49b6-8985-0d20c93d3836)
 
 
 5. You have read the article and found some really interesting facts which might be useful for your publication. **Copy the following in the note:**
@@ -70,7 +71,7 @@ Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.or
 
 ### Using Tags
 
-*You can structure your knowledge by using tags #test
+*You can structure your knowledge by using tags #test*
 
 *In this vault there exist two types to query tags:*
 1. You can use the **search bar** on the left (icon magnifier).
