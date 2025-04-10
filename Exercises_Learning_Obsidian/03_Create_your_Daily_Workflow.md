@@ -58,6 +58,7 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 2. **Create a folder named "TEMPLATES" in the folder "BACKEND"
 
 **EITHER**
+
 3. **Create a note called "Template_Daily_Note" and move it into the "TEMPLATES" folder.
 4. **Select one of the templates offered and copy the content into the note you have created:**
 	[[2.1.1_Template_Daily_Note]]
@@ -66,6 +67,7 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 	[[2.1.4_Template_Daily_Note_with_Navigation]]
 
 **OR**
+
 5. **Download the template you want and drag and drop it to your vault.**
 6. **Move the template into the "TEMPLATES" folder.**
 
@@ -73,7 +75,9 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 
 ###### Understanding the Error Messages in the Template
 The message you are seeing (see screenshot below) indicates that the template placeholders (e.g., `<% today %>`) are not being expanded when viewed directly in the template file. This is normal behavior because the placeholders are intended to be replaced when the template is used, not when the template is viewed directly.
-![[4_error_message_template_daily_note.png]]
+
+![3_screenshot_attachment_folder_path](https://github.com/user-attachments/assets/0c4dcce3-2b84-4466-854a-3940914292a3)
+
 
 ## 4. Settings in the community plugins
 
