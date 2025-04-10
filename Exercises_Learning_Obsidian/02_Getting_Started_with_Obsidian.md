@@ -20,14 +20,16 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 ## Create Your First Note about Markdown Syntax
 
-![[1_screenshot_create_a_note.png]]
+![1_screenshot_create_a_note](https://github.com/user-attachments/assets/30341720-8508-4d31-8b54-e3c3f6034f52)
+
 
 1. **Click on the icon to create a new note or use the hotkey ctrl + n** (or on German keyboards strg + n)
 2. **Rename the note to "Markdown Syntax** (your cheat sheet for learning Markdown syntax).
 3. **Copy and add the following to the new note you just created.**
 
 *In the provided text about Markdown three backticks are inserted at the beginning and at the end to display the raw, unformatted Markdown syntax.
-![[2_screenshot_backticks.png]]
+
+![2_screenshot_backticks](https://github.com/user-attachments/assets/544806ba-16d2-4d09-8104-db5c4aa24147)
 
 ```markdown
 *Markdown is a lightweight markup language that allows you to format text easily.*
@@ -76,7 +78,8 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 	- Go to **Settings** → **Files and Links**
 	- Change the attachment location as shown in the image.
 
-![[3_screenshot_attachment_folder_path.png]]
+![3_screenshot_attachment_folder_path](https://github.com/user-attachments/assets/109bc374-fd40-4a0e-bc3a-3ee766197da5)
+
 
 3. **Test it:**
     - Create a note and insert an image or PDF via drag-and-drop or copy-paste.
