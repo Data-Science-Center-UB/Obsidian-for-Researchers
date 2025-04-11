@@ -1,0 +1,87 @@
+
+**Learning Objectives in this Exercise:**
+
+- Create and Link "Zettel" in Obsidian
+- Using the Zettel Template, includes explanation of the template
+
+## Your first "Zettel": Lunch with Colleagues
+
+*After lunch your back in your office. At lunch colleague told you about his cat and suddenly you got an idea for your article.*
+
+**Create a note in the folder ZEKA/ZETTEL** → **press alt + e** → **select** "Zettel_Template" → name the "Zettel" "cats_in_space"
+
+*Now you see the Zettel Template in your note and you can fill it like this:*
+
+```
+---
+Created: 2025-04-09 18:41
+tags:
+  - p1_literature_review
+---
+### Input
+Colleagues story about his cat. 
+### Reference
+My idea based on his story.
+### Output
+Idea for introduction: Cats in space are funny.
+### Link
+[[Link_to_related_Zettel]]
+```
+
+**Tip:** To change between preview mode and source mode press **strg + p**  → "Toggle Live Preview/Source mode"
+
+*It should look like this:*
+![](8_screenshot_zettel_template.png)
+**Explanation of the Zettel structure**
+*This is a structure of a Zettel I like. It is not the way Luhmann did it. He had less structure in his notes, which is perfectly fine. Please choose the way it suits for you.*
+
+1: *The name of the file is important because with you connect the Zettel with each other. Choose a name which reflect the overall topic of the note.*
+
+2: *I use the [Properties](https://help.obsidian.md/properties) for the tags. With the Dataview plugin (you already installed it in the previous exercises) it is possible to query your database via tags (see exercise 05d). I use my tags to sort the Zettel into my projects.*
+
+3: *In the input section I add the quote, situation, picture, thought etc. on which my insight was based.*
+
+4: *Here I add the source or reference of the input. It can be a bibliography reference, or a link to a website, or yourself.*
+
+5: *Here I add what output I have based on the input. It is one of the most important section for your Zettelkasten. Based on what is written here you can write paper easily by copy and paste your written text. In this section you have to think about your topic/insight which is the most important difference between an archive (where you store data) and your Zettelkasten (where you think).*
+
+6: *In this section you link your "Zettel" to another "Zettel". Make sure that the "Zettel" is connected to your knowledge base. Otherwise you will lose the "Zettel" between the others. Choose one or two links which relates to the topic of your note. Don't use more links, it will clutter your Graphview (see exercise 05d). By typing `[[]]` into the note, you can search through your notes to find a fitting one.* 
+
+## Your second "Zettel": An Idea Based on the First "Zettel"
+
+*While creating your first "Zettel" an idea comes into your mind: You want to generate a picture for your publication. With the help of AI you generate a picture with cats in space and connect it to your first "Zettel".*
+
+→ **Generate a picture with the help of AI
+
+**Change the link in your first "Zettel"** (Link_to_related_Zettel) into "picture_cats_in_space" → **create a new note** by clicking on the link → **press alt + e** → **select** "Zettel_Template"
+
+**Tip: Enable Backlink View:**
+
+*I recommend to enable the feature so you can see the backlinks of your notes permanently in your note.*
+
+**Settings** → **Core Plugin** → **Backlinks** → **Enable** "Show Backlinks at the bottom of your notes"
+
+*Now you see the Zettel Template in your note and you can fill it like this:*
+
+```
+---
+Created: 2025-04-10 10:51
+tags:
+  - p1_literature_review
+---
+### Input
+Prompt: Cats in space are funny.
+### Reference
+ChatGPT Image 9. Apr. 2025, 19_24_48
+### Output
+![](ChatGPT%20Image%209.%20Apr.%202025,%2019_24_48.png)
+### Link
+
+```
+
+
+*It should look like this:*
+
+![](9_screenshot_zettel_cats_in_space.png)
+
+*I did not fill in the section "Link", because the "Zettel" is already linked to a "Zettel" via the backlink function.*
