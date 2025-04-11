@@ -2,6 +2,7 @@
 **Learning Objectives in this Exercise:**
 - Transfer knowledge from Zotero to Obsidian.
 - Process this knowledge using the **Zettelkasten method** in your Obsidian vault.
+- This task requires that you have a basic understanding of how Zotero works.
 
 ## Step 1: Prepare the Article in Zotero
 
@@ -33,7 +34,8 @@ Before creating your third *Zettel*, open **Zotero**.
 4. **Search for and select the reference:** *Parkhi et al., 2012*
 5. **Press** `Enter`.
 
-![](10_screenshot_zotero_template.png)
+![10_screenshot_zotero_template](https://github.com/user-attachments/assets/c8f7d5fb-fbbe-437e-ada5-fa1aef8bcddc)
+
 
 ## Step 3: Turn the Knowledge into a "Zettel"
 
@@ -51,7 +53,7 @@ Before creating your third *Zettel*, open **Zotero**.
 4. **Organize the content in the "Zettel"** as shown below.  
 	*(You don’t need to fill in the reference section — backlinks will cover this.)*
 
-![](11_screenshot_zettel_error_pets_wearing_clothes.png)
+![11_screenshot_zettel_error_pets_wearing_clothes](https://github.com/user-attachments/assets/7b3c16ac-8a91-459c-9a7b-80621d8161da)
 
 ## Step 4: Create a Subject Index
 
