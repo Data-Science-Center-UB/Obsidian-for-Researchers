@@ -1,20 +1,19 @@
 # Your Daily Note
-*(Duration approx. 15min)*
 
 *The proposed Daily Note template can enhance your workflow by:*
 
-- **Displaying all to-dos:** *Automatically reminds you of tasks planned for today (or later), regardless of when they were set.
-- **Daily Log section:** *Encourages brief reflections on daily achievements, challenges, and insights. Can be used for end-of-day reviews or setting daily focus.
-- **Promoting regular Obsidian use:** *Provides a clear starting point of each day, increasing the likelihood of long-term Obsidian integration into your work routine.
+- **Displaying all to-dos:** *Automatically reminds you of tasks planned for today (or later), regardless of when they were set.*
+- **Daily Log section:** *Encourages brief reflections on daily achievements, challenges, and insights. Can be used for end-of-day reviews or setting daily focus.*
+- **Promoting regular Obsidian use:** *Provides a clear starting point of each day, increasing the likelihood of long-term Obsidian integration into your work routine.*
 
 *Remember, adapt these features to suit your personal workflow. The key is finding an approach that works best for you.*
 
 **Learning Objectives in this Exercise:**
-- *How to use **Community Plugins**.
-	- *Templater by SilentVoid
-	- *Dataview by Michael Brenan
-	- *Tasks by Clare Macrae and Ilyas Landikov
-- *How to use Templates for a Daily Note.
+- *How to use **Community Plugins**.*
+	- *Templater by SilentVoid*
+	- *Dataview by Michael Brenan*
+	- *Tasks by Clare Macrae and Ilyas Landikov*
+- *How to use Templates for a Daily Note.*
 
 ## 1. Community Plugins
 
@@ -54,12 +53,12 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 
 ## 3. Create Folder and Notes for Your Daily Workflow
 
-1. **Create a folder named "DAILY NOTES" in the folder "BACKEND"
-2. **Create a folder named "TEMPLATES" in the folder "BACKEND"
+1. **Create a folder named "DAILY NOTES" in the folder "BACKEND"**
+2. **Create a folder named "TEMPLATES" in the folder "BACKEND"**
 
 **EITHER**
 
-3. **Create a note called "Template_Daily_Note" and move it into the "TEMPLATES" folder.
+3. **Create a note called "Template_Daily_Note" and move it into the "TEMPLATES" folder.**
 4. **Select one of the templates from the GitHub folder "Templates" and copy the content into the note you have created:**
 
    [Daily Note Basic](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/950a01459ba6f1b587a4fee3bfecaadb299fdd4d/Templates/Template_Daily_Note_basic.md)
@@ -95,7 +94,7 @@ The message you are seeing (see screenshot below) indicates that the template pl
 
 ## 5. Check if everything is working
 *Now you finished all settings for your daily workflow. Check if everythings works quite well.* 
-1. **Go to your vault and click on the left sidebar on the calendar icon ("Open today's daily note"). 
+1. **Go to your vault and click on the left sidebar on the calendar icon ("Open today's daily note").**
 2. **Then a note with the template should open with the today's date.** 
 
 *In the next exercise there are some tips how you can use the daily note in your workflow.*
