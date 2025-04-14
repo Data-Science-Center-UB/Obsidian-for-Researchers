@@ -61,6 +61,16 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 
 3. **Create a note called "Template_Daily_Note" and move it into the "TEMPLATES" folder.
 4. **Select one of the templates from the GitHub folder "Templates" and copy the content into the note you have created:**
+
+   [Daily Note Basic](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/950a01459ba6f1b587a4fee3bfecaadb299fdd4d/Templates/Template_Daily_Note_basic.md)
+   
+   [Daily Note Recurring Tasks](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8197ed3bb39987944e4d1772d2801c386d2f0f7e/Templates/Template_Daily_Note_with_Recurring_Tasks.md)
+   
+   [Daily Note with Scheduled Today](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8197ed3bb39987944e4d1772d2801c386d2f0f7e/Templates/Template_Daily_Note_with_Scheduled_Today.md)
+   
+   [Daily Note with Recurring Tasks und Scheduled Today](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8197ed3bb39987944e4d1772d2801c386d2f0f7e/Templates/Daily_Note_with_Recurring_Scheduled_Tasks.md)
+   
+   
    
 **OR**
 
