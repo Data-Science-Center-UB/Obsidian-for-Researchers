@@ -60,16 +60,12 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 **EITHER**
 
 3. **Create a note called "Template_Daily_Note" and move it into the "TEMPLATES" folder.
-4. **Select one of the templates offered and copy the content into the note you have created:**
-	[[2.1.1_Template_Daily_Note]]
-	[[2.1.2_Template_Daily_Note_with_Recurring_Tasks]]
-	[[2.1.3_Template_Daily_Note_with_Scheduled_Today]]
-	[[2.1.4_Template_Daily_Note_with_Navigation]]
-
+4. **Select one of the templates from the GitHub folder "Templates" and copy the content into the note you have created:**
+   
 **OR**
 
-5. **Download the template you want and drag and drop it to your vault.**
-6. **Move the template into the "TEMPLATES" folder.**
+6. **Download the template you want and drag and drop it to your vault.**
+7. **Move the template into the "TEMPLATES" folder.**
 
 *Once you are familiar with the template you can delete the instructions within the template. These are your for a first understanding and guidance.*
 
