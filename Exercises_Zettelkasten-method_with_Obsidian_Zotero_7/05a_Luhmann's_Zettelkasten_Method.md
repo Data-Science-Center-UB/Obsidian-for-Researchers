@@ -22,8 +22,8 @@
 
 ***How do you use the Zettelkasten?***
 *There are two main phases in the use of the card box, which are iterative:*
-1. *input phase: In this phase, you feed the "Zettelkasten" with "Zettel".
-2. *output phase: In this phase, you think together with the "Zettelkasten". 
+1. *input phase: In this phase, you feed the "Zettelkasten" with "Zettel".*
+2. *output phase: In this phase, you think together with the "Zettelkasten".*
 
 ## My Zettelkasten in Obsidian
 
