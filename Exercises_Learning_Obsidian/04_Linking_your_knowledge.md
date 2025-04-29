@@ -1,5 +1,5 @@
 ## Linking your Knowledge
-*(Duration approx. 30min)*
+*(Duration approx. 10min)*
 
 *Obsidians Bi-Directional Linking Feature:*
 - **Enables users to create bi-directional links** between notes, fostering connections between ideas and forms a web of interconnected ideas.
@@ -46,10 +46,10 @@ AND
 ```markdown
 Pets in Clothes: The research team found that one of the common issues with the images collected for their dataset was pets wearing clothes. The article mentions that images of pets dressed up were often discarded, which implies that while some owners may enjoy dressing their pets, it complicates the task of accurately identifying their breed. 
 Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/6248092) 
-[[Ideas Collection Publication]]
+[[Publication Idea Collection]]
 ```
 6. **Go to the note** "Ideas Collection Publication" by clicking the link.
-7. Again: **Expand the right sidebar** → **click on backlinks** *Now you can see all the places where you had ideas for your publication and you can start planning your paper.*
+7. *In the right sidebar you can see all the places where you had ideas for your publication (pretend for a moment that there are more) and you can start planning your paper.*
 
 ### Graph View
 
@@ -61,7 +61,7 @@ Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.or
 
 ### Linking a local file
 
-*It is also possible to write a link in a note in Obsidian that allows you to open a file from your computer. You need to insert a path to a file on your local device into the following link. You can find the path by right-clicking on a file and selecting "Copy as Path". Usually there will automatically will insert double quotation mark. You have to replace them with <  >*
+*It is also possible to write a link in a note in Obsidian that allows you to open a file from your computer. You need to insert a path to a file on your local device into the following link. You can find the path by right-clicking on a file and selecting "Copy as Path". Usually there will automatically will insert double quotation mark. You have to replace them with <  > We have already applied this in task 02 in our CHANGELOG.*
 
 ```markdown
 [filename](<absolute-path>)
@@ -71,15 +71,16 @@ Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.or
 
 ### Using Tags
 
-*You can structure your knowledge by using tags #test*
+*You can structure your knowledge by using #tags*
 
-*In this vault there exist two types to query tags:*
+*In this vault, there are two ways to query tags:*
 1. You can use the **search bar** on the left (icon magnifier).
-2. You can **write a query and use the Dataview plugin** you installed in the exercises before. Here is an example for a list query of the tag #test . Copy the following into a new note in your Obsidian Vault. After pressing the Enter key, Obsidian automatically transfers the command to a list. To see the command again move with your courser to the field where you see the list and click on </>
+2. You can **write a query and use the Dataview plugin** you installed in the exercises before. Here is an example for a list query of the tag #test . Copy the following into the note "Publication Idea Collection". After pressing the Enter key, Obsidian automatically transfers the command to a list. To see the command again move with your courser to the field where you see the list and click on </>
 
        ```dataview
        LIST
        FROM #test
        ```
+*To see a list add the tag `#test` to different notes in your vault (you can delete the tags afterwards).*
 
 You can write many different kind of querys with the Dataview plugin. Check out the documentation: [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
