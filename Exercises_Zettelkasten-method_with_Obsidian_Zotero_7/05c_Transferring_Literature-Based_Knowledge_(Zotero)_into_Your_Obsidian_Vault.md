@@ -9,7 +9,7 @@
 Before creating your third *Zettel*, open **Zotero**.
 
 1. **Add the article** from Exercise 03a as a PDF to your Zotero library.  
-   **DOI:** [https://doi.org/10.1109/CVPR.2012.6248092](https://doi.org/10.1109/CVPR.2012.6248092)
+   **DOI:** [[https://doi.org/10.1109/CVPR.2012.6248092](https://doi.org/10.1109/CVPR.2012.6248092)](https://doi.org/10.48550/arXiv.2503.22919)
 
 2. **Highlight the following paragraph:**
 
