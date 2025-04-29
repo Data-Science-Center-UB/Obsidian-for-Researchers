@@ -35,7 +35,7 @@ Customize Better BibTex:
 
 *Please visit the plugin documentation if you would like to create a different cite key.*
 
-**Display citation key:**
+**Display citation key in Zotero's Literatur List:**
 **Right-click on bar "Titel | Creator | Attachment" → select citation key**
 *Now you can see the citation key for each of your reference.*
 
@@ -44,11 +44,11 @@ Customize Better BibTex:
 
 **Community plugins → Browse → Zotero Integration by mgmeyers → Install → Enable**
 
-**Open Zotero Integration Settings → set the "Note Import Location" → Enable "Open the created note after import"
+**Open Zotero Integration Settings → set the "Note Import Location" → Enable "Open the created note after import"**
 
 *For Zettelkasten (see next exercise):*
 
-**Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "Source_Notes" and "ZETTEL" → set the Note Import Location to "ZEKA/SOURCE_NOTES"
+**Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "SOURCE_NOTES" and "ZETTEL" → set the Note Import Location in the Zotero Integration plugin to "ZEKA/SOURCE_NOTES"
 
 → **Document all settings in your CHANGELOG**
 ## Settings in Obsidian and Zotero
@@ -56,17 +56,17 @@ Customize Better BibTex:
 *Synchronize the citation format*
 
 *Zotero:* 
-**Settings → Cite → Select your Citation Format and remember it**
+**Edit → Settings → Cite → Select your Citation Format and remembere it (e.g. American Political Science Association)**
 
 *Obsidian:* 
-**Citation Format → Add Citation Format → Select the same as in Zotero
+**Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
 
-**Import Formats → Add Import Format  
-	Name:** "Add Source Note" 
-	**Output Path:** ZEKA/SOURCE_NOTE/{{citekey}}.md
-	**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/
-	**Template File:** BACKEND/TEMPLATES/Zotero_Template.md
-	**Bibliography Style:** Select the same citation format like before
+**Import Formats → Add Import Format** <br>
+	**Name:** Add Source Note <br>
+	**Output Path:** ZEKA/SOURCE_NOTE/{{citekey}}.md <br>
+	**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/ <br>
+	**Template File:** BACKEND/TEMPLATES/Zotero_Template.md <br>
+	**Bibliography Style:** Select the same citation format like before <br>
 
 → **Document all settings in your CHANGELOG**
 ## Zettelkasten Set Up
@@ -104,8 +104,8 @@ created: {{importDate|format("YYYY-MM-DD")}}
 ```
 
 *The template generates this output:*
+![7_screenshot_zotero_template](https://github.com/user-attachments/assets/60f8acf1-cc1c-4f00-8cc4-6a46793a913f)
 
-![](7_screenshot_zotero_template.png)
 
 → **Document all settings in your CHANGELOG**
 
