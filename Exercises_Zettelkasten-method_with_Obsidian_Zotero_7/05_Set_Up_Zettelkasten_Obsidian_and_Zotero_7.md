@@ -62,8 +62,8 @@ Customize Better BibTex:
 **Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
 
 **Import Formats → Add Import Format** <br>
-	**Name:** Add Source Note <br>
-	**Output Path:** ZEKA/SOURCE_NOTE/{{citekey}}.md <br>
+	**Name:** Add Source Notes <br>
+	**Output Path:** ZEKA/SOURCE_NOTEs/{{citekey}}.md <br>
 	**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/ <br>
 	**Template File:** BACKEND/TEMPLATES/Zotero_Template.md <br>
 	**Bibliography Style:** Select the same citation format like before <br>
