@@ -4,7 +4,7 @@
 
 This repository offers two main resources to help you use Obsidian for scientific research:
 
-**1. Step-by-step instructions** for learning the core features of Obsidian while building your own research-supporting Vault.
+**1. Step-by-step instructions** for learning the core features of Obsidian while building your own research-supporting Vault. Small, real-world scenarios illustrate how the Vault’s features can be applied in practice.
 
 **2. A completed example Vault** that you can download and explore directly in Obsidian.
 
