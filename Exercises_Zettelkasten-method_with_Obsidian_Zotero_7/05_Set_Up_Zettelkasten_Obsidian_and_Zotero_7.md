@@ -48,7 +48,7 @@ Customize Better BibTex:
 
 *For Zettelkasten (see next exercise):*
 
-**Create a folder** named "ZEKA" → **Create inside the folder** "Source_Notes" and "ZETTEL" → set the Note Import Location to "ZEKA/SOURCE_NOTES"
+**Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "Source_Notes" and "ZETTEL" → set the Note Import Location to "ZEKA/SOURCE_NOTES"
 
 → **Document all settings in your CHANGELOG**
 ## Settings in Obsidian and Zotero
@@ -113,7 +113,7 @@ created: {{importDate|format("YYYY-MM-DD")}}
 2. **Zettel Template**
 
 *In Obsidian:*
-**Add in Folder BACKEND/TEMPLATES** new note "Zotero_Template" and copy the following template in it (or use/build your own):
+**Add in Folder BACKEND/TEMPLATES** new note "Zettel_Template" and copy the following template in it (or use/build your own):
 
 ```
 ---
