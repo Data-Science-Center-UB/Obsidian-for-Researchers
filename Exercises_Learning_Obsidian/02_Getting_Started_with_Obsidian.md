@@ -20,16 +20,12 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 ## Create Your First Note about Markdown Syntax
 
-![1_screenshot_create_a_note](https://github.com/user-attachments/assets/30341720-8508-4d31-8b54-e3c3f6034f52)
+![1_screenshot_new_note](https://github.com/user-attachments/assets/5313c06e-fbc4-4d19-9276-fd5e179161c7)
 
 
 1. **Click on the icon to create a new note or use the hotkey ctrl (or strg) + n (windows) or cmd + n (MacOS)**
-2. **Rename the note to "Markdown Syntax** (your cheat sheet for learning Markdown syntax).
+2. **Rename the note to "Markdown Syntax"** (your cheat sheet for learning Markdown syntax).
 3. **Copy and add the following to the new note you just created.**
-
-*In the provided text about Markdown three backticks are inserted at the beginning and at the end to display the raw, unformatted Markdown syntax.
-
-![2_screenshot_backticks](https://github.com/user-attachments/assets/544806ba-16d2-4d09-8104-db5c4aa24147)
 
 ```markdown
 *Markdown is a lightweight markup language that allows you to format text easily.*
@@ -48,11 +44,16 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 	Note: There must be a space between `-` and `[ ]`. Otherwise Obsidian does not format the Markdown syntax into a checkbox that can be checked.
 ```
 
+*Feel free to play around with the Markdown syntax in the space below the note.*
+
 ## Create a Folder "BACKEND"
 
 *I recommend creating a folder where you have all the notes that are responsible for the infrastructure of your Obsidian Vault. This way you have them separate from your content notes. I use capital letters for the infrastructure pages/folders.*
 
-1. **Create a folder and name it "BACKEND"
+![2_screenshot_new_folder](https://github.com/user-attachments/assets/4393a26c-31bb-431e-a1f0-44fb4a2d6657)
+
+
+1. **Create a folder and name it "BACKEND"**
 
 *Feel free to use different names for your folders and notes, but avoid changing them later. Changing names can cause conflicts, especially when working with templates.*
 
@@ -62,11 +63,11 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 *In computer science, such a record is called a "changelog". It is a file that lists changes, improvements, and bug fixes in chronological order, providing a clear overview of a project's development.*
 
-1. **Create a note named "CHANGELOG" inside the folder "BACKEND" 
+1. **Create a note named "CHANGELOG" inside the folder "BACKEND"**
 2. **Record where your Obsidian Vault is stored—you’ll likely need the file path often.**
 3. **Insert the vault's location (e.g., `C:\Users\name\Desktop\ObsidianLocal\MyVault`).**
 4. **Format the path to the folder like this:**
-	``[Path Obsidian Vault](<C:\Users\name\Desktop\ObsidianLocal\MyVault>)``
+	``[Path to local Obsidian Vault](<C:\Users\name\Desktop\ObsidianLocal\MyVault>)``
 5. **Now you created a link with which you can open your local folder where your .md files of your vault are stored.**
 
 **Tips for Linking:**
@@ -84,8 +85,9 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 
 
 3. **Test it:**
-    - Create a note and insert an image or PDF via drag-and-drop or copy-paste.
-    - The file should now be saved in the "ATTACHMENT" folder.
+- Open one of your existing notes (e.g., `CHANGELOG`) and insert an image or PDF using drag-and-drop or copy-paste.  
+  - The file should automatically be saved in the `ATTACHMENT` folder.  
+  - After testing, delete the file from both the `ATTACHMENT` folder and the note.
     - **Tip:** This only works for attachments in a note, not for attachments that you drag-and-drop on the left in your overview of notes and files.
 
 **Obsidian supports the following file types:**
