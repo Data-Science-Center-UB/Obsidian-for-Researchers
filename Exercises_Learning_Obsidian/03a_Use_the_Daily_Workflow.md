@@ -20,11 +20,11 @@ You receive an email with a promising reference to a article that's perfectly su
 - [ ] Check literature  [Cats and dogs | IEEE Conference Publication](https://doi.org/10.1109/CVPR.2012.6248092)
 ```       
 
-An auto-suggest menu should automatically appear in the line, where you can select **due date** and then type or **select today's date**. This only happens if the date is written after the text.
+*An auto-suggest menu should automatically appear in the line, where you can select **due date** and then **type or select today's date**. This only happens if the date is written after the text.*
    
-**Tip:** The auto-suggest menu pops up only if the cursor is in a line that is recognized as a task, that is, the line contains a checkbox. If due date is not suggested in the auto-suggest menu, type due and it will appear.*
+**Tip:** *The auto-suggest menu pops up only if the cursor is in a line that is recognized as a task, that is, the line contains a checkbox. If due date is not suggested in the auto-suggest menu, type due and it will appear.*
 
-**Tip** When you insert a link to a homepage from your browser's command line into a note in Obsidian, the application automatically generates Markdown syntax for the link. This syntax follows the format `[Title of Homepage](URL).` You can change the title to better reflect the content of the link.*
+**Tip:** *When you insert a link to a homepage from your browser's command line into a note in Obsidian, the application automatically generates Markdown syntax for the link. This syntax follows the format `[Title of Homepage](URL).` You can change the title to better reflect the content of the link.*
 
 **3. Overdue Tasks**
 
@@ -38,7 +38,8 @@ An auto-suggest menu should automatically appear in the line, where you can sele
 
 2. **Select today's date and correct it manually by entering the previous day.**
 
-*Now it appears under "Overdue Tasks".*
+*Now it appears under "Overdue Tasks".*<br>
+*Check the box and it appears under "Done Today"*
 
 **4. Optional: Recurring tasks**
 *Works only for the template with the recurring tasks.*
@@ -49,7 +50,7 @@ An auto-suggest menu should automatically appear in the line, where you can sele
 - [ ] Water Semi's plants
 ```         
 
-Again an auto-suggest menu should appear. If recurring is not provided in the auto-suggest menu, type *recurring* and it will appear: Choose **recurring every week on Wednesday** and **select a start date**.
+*Again an auto-suggest menu should appear. If recurring is not provided in the auto-suggest menu, type *recurring* and it will appear: Choose **recurring every week on Wednesday** and **select a start date**.*
 
 **5. Optional: Scheduled task:**
 *Works only for the template with the scheduled tasks.*
@@ -60,10 +61,12 @@ Again an auto-suggest menu should appear. If recurring is not provided in the au
 - [ ] contribution conference abstract, Deadline "end of next month" 
 ```   
 
-**Select "Schedule date" and select the date after your vacation.** 
+**Select "Schedule date" and select the date "after your vacation" (for demonstration purpose, select a date in the future).**
+
+*The task now appears in the section "Upcoming Tasks".*
 
 ## 2. Second Scenario: Your meeting begins
-**Tip:** Often, I only make short bullet point notes during the meeting and take 3 minutes after the meeting to distribute the to-dos throughout my week/month/year.*
+**Tip:** *Often, I only make short bullet point notes during the meeting and take 3 minutes after the meeting to distribute the to-dos throughout my week/month/year.*
 
 2.1 You take on the task of writing an important email to a cooperation partner for your project. However, the email shouldn't be sent until next Monday. Write under **New**: 
 ```markdown
@@ -71,7 +74,7 @@ Again an auto-suggest menu should appear. If recurring is not provided in the au
 ```         
 Select **due date** and **next Monday** in the auto-suggest menu.
 
-The task now appear in the section "Upcoming Tasks"
+The task now appears in the section "Upcoming Tasks"
 
 2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under **Daily Log** your idea and link it to a potential idea collection of the publication: 
 
@@ -80,8 +83,9 @@ The task now appear in the section "Upcoming Tasks"
 ```         
 
 **Core Obsidian Function: Linking Notes**
-With double square brackets you can either create a new note `[[Title of new note]]
-or link an existing note `[[Title of existing note]].
-The new note is created by clicking on the link. The colour of the link will change then from light purple to darker purple. While creating a existing note it will automatically suggest you existing notes in your vault.
+With double square brackets you can either create a new note `[[Title of new note]]`
+or link an existing note `[[Title of existing note]]`.
+The new note is created by clicking on the link. The colour of the link will change then from light purple to darker purple.
+**Create the note "Publication Idea Collection" by clicking on the link.**
 
 
