@@ -36,18 +36,20 @@ Cats in space are undeniably amusing — their unexpected presence in cosmic set
 	FROM "ZEKA/ZETTEL"
 	AND #p1_literature_review 
 	```
+*Idea: For example, you can add this to the “Ideas Collection Publication” note that you created in the “Learning Obsidian” exercises. You can then automatically display all notes that are relevant for this publication.*
 
 *To explore additional query options, take a look at the documentation: [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)*
+
 ## Step 3: Revise your Zettel 
 
-*From time to time, it may be necessary to revise your Zettels. Click through your notes to create new connections, adjust existing ones, and identify topics that are suitable for a subject index page. By reading the "Output" section of your Zettels, you might also discover new ideas.
+*From time to time, it may be necessary to revise your Zettels. Click through your notes to create new connections, adjust existing ones, and identify topics that are suitable for a subject index page. By reading the "Output" section of your Zettels, you might also discover new ideas.*
 
 1. **The Graph View Function**
 *The graph view can be a helpful tool for this purpose. Click the graph view icon in the left toolbar to open it:
 
 ![12_screenshot_open_graph_view](https://github.com/user-attachments/assets/a08351bd-5834-4796-a862-3b6a3b4c405b)
 
-*At first, you'll see all your notes. On the right side, you can open the graph view settings to filter which notes are displayed. In the search bar, type `path:ZEKA/ZETTEL`. Now, only the notes in your Zettelkasten will be shown. Experiment with the settings and take a look at the documentation for more guidance: [Graph view - Obsidian Help](https://help.obsidian.md/plugins/graph)*
+*At first, you'll see all your notes in the graph view. On the right side, you can open the graph view settings to filter which notes are displayed. In the search bar, type `path:ZEKA/ZETTEL`. Now, only the notes in your Zettelkasten will be shown. Experiment with the settings and take a look at the documentation for more guidance: [Graph view - Obsidian Help](https://help.obsidian.md/plugins/graph)*
 
 ![13_screenshot_settings_graph_view](https://github.com/user-attachments/assets/80ad0cc2-82b4-4609-bbdf-5a53c374efc2)
 
