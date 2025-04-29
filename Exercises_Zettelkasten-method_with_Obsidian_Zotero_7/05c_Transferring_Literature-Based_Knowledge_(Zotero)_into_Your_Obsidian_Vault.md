@@ -23,7 +23,7 @@ Before creating your third *Zettel*, open **Zotero**.
 
 5. **Clean up the reference item:**
    - Remove all existing tags from the reference item (not the PDF).
-   - Add the tag: `#skimmed`
+   - Add the tag: `skimmed`
 
 ## Step 2: Create a Source Note in Obsidian
 
