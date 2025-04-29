@@ -2,7 +2,7 @@
 *This manual is written for **Zotero 7.0***
 
 *The following plugins are used:*
-- *Zotero: Better BibText*
+- *Zotero: Better BibTex*
 - *Obsidian: Zotero Integration*
 
 *Following workflow is possible with this set up:*
