@@ -17,7 +17,7 @@
 You receive an email with a promising reference to a article that's perfectly suited to your field. You don't have time to read the article now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: 
 
 ```markdown
-- [ ] Check literature  [Cats and dogs | IEEE Conference Publication](https://doi.org/10.1109/CVPR.2012.6248092)
+- [ ] Check literature  [Feline gravity manipulation](https://doi.org/10.48550/arXiv.2503.22919)
 ```       
 
 *An auto-suggest menu should automatically appear in the line, where you can select **due date** and then **type or select today's date**. This only happens if the date is written after the text.*
