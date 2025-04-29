@@ -26,13 +26,13 @@ AND
 **Remember:** Add your changes in the settings to your CHANGELOG.
 #### Exercise: Linking to other notes
 
-*You found an important research article about cats, dogs and object recognition models in the previous exercise (Link: Use_the_Daily_Workflow). It's now afternoon and you have time to read the articles.*
+*You found an "important" (or funny) research article about cats and gravity in the previous exercise (Link: Use_the_Daily_Workflow). It's now afternoon and you have time to read the article.*
 
 1. **Write behind the task** "- [ ] Check literature [...]" (in your Daily Note, see exercise 2.2) the following:
 ```markdown 
-[[Object Category Recognition]]
+[[Feline gravity manipulation]]
 ```
-  *A link titled "Object Category Recognition" should now appear. You'll notice that its color is lighter compared to the other links. This is because the note for this header hasn't been created yet.*
+  *A link titled "Feline gravity manipulation" should now appear. You'll notice that its color is lighter compared to the other links. This is because the note for this header hasn't been created yet.*
 
 3. **Click on the link**, and a new tab will open where Obsidian will automatically generate the note.
 4. **Expand the right sidebar** → **click on backlinks** *Here, you can view all the backlinks to your note. Currently, you will see the mention in your daily note.*
@@ -44,8 +44,14 @@ AND
 
 5. You have read the article and found some really interesting facts which might be useful for your publication. **Copy the following in the note:**
 ```markdown
-Pets in Clothes: The research team found that one of the common issues with the images collected for their dataset was pets wearing clothes. The article mentions that images of pets dressed up were often discarded, which implies that while some owners may enjoy dressing their pets, it complicates the task of accurately identifying their breed. 
-Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/6248092) 
+​The article "Feline Gravity Manipulation" by Viktor T. Toth, published on arXiv in March 2025, presents a humorous yet thought-provoking exploration of the idea that domestic cats (Felis catus) possess the unique ability to manipulate their passive gravitational mass. This conjecture is inspired by the feline's seemingly effortless defiance of gravity, such as their ability to land on their feet from high falls or perch in precarious positions.​
+arXiv
+
+Toth delves into this whimsical hypothesis by examining it through the lenses of general relativity and quantum physics. He suggests that studying feline behavior in gravitational fields could potentially offer insights into complex physical phenomena like neutrino mass mixing and the unification of gravity with quantum field theory.​
+arXiv
+
+While the paper is satirical in nature, it cleverly uses scientific language and concepts to entertain and engage readers, highlighting the mysterious and agile nature of cats in a lighthearted manner.
+Source: https://doi.org/10.48550/arXiv.2503.22919
 [[Publication Idea Collection]]
 ```
 6. **Go to the note** "Ideas Collection Publication" by clicking the link.
