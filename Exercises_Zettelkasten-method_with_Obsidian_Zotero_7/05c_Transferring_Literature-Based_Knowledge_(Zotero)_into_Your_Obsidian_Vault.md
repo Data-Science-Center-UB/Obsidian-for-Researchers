@@ -9,20 +9,20 @@
 Before creating your third *Zettel*, open **Zotero**.
 
 1. **Add the article** from Exercise 03a as a PDF to your Zotero library.  
-   **DOI:** [[https://doi.org/10.1109/CVPR.2012.6248092](https://doi.org/10.1109/CVPR.2012.6248092)](https://doi.org/10.48550/arXiv.2503.22919)
+   **DOI:** [Feline gravity manipulation](https://doi.org/10.1109/CVPR.2012.6248092)
 
 2. **Highlight the following paragraph:**
 
-   > *"From this candidate list, images were dropped if any of the following conditions applied, as judged by the annotators: (i) the image was grayscale, (ii) another image portraying the same animal existed (which happens frequently in Flickr), (iii) the illumination was poor, (iv) the pet was not centered in the image, or (v) the pet was wearing clothes."*
+   > *"To this end, we propose a theoretical model, which we tentatively call Modified Feline Gravitational Dynamics or MOFEGD."*
 
 3. **Add this comment to the highlighted paragraph:**
 
-   > *Pets in Clothes:* The research team found that one of the common issues with the images collected for their dataset was pets wearing clothes. The article mentions that images of pets dressed up were often discarded, which implies that while some owners may enjoy dressing their pets, it complicates the task of accurately identifying their breed.
+   > MOFEGDE as a method should be used across the board; it is considered one of the author's most important discoveries.
 
 4. **Add a the tag `#p1_literature_review` to the comment.**
 
 5. **Clean up the reference item:**
-   - Remove all existing tags from the reference item.
+   - Remove all existing tags from the reference item (not the PDF).
    - Add the tag: `#skimmed`
 
 ## Step 2: Create a Source Note in Obsidian
@@ -31,7 +31,7 @@ Before creating your third *Zettel*, open **Zotero**.
 2. **Press** `Ctrl + P`, then select:  
    ➔ *Zotero Integration: Add Source Note*
 3. The *Quick Format Citation* window will open (via Zotero).
-4. **Search for and select the reference:** *Parkhi et al., 2012*
+4. **Search for and select the reference:** *Toth, 2025*
 5. **Press** `Enter`.
 
 ![10_screenshot_zotero_template](https://github.com/user-attachments/assets/c8f7d5fb-fbbe-437e-ada5-fa1aef8bcddc)
