@@ -59,16 +59,19 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 **EITHER**
 
 3. **Create a note called "Template_Daily_Note" and move it into the "TEMPLATES" folder.**
-4. **Select one of the templates from the GitHub folder "Templates" and copy the content into the note you have created:**
+4. **Select one of the templates from the GitHub folder "Obsidian-for-Researcher/Materials-for-the-Exercises/Templates" and copy the content into the note you have created:**
 
-   [Daily Note Basic](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/950a01459ba6f1b587a4fee3bfecaadb299fdd4d/Templates/Template_Daily_Note_basic.md)
+   [Daily Note Basic](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/7495e7b4582fdaf896b12761988c5e9b1421e2de/Materials-for-the-Exercises/Templates/Template_Daily_Note_basic.md)<br>
+	→ This template includes sections for: Daily Thoughts, New Tasks, Tasks Due Today, Upcoming Tasks, Completed Tasks, and Overdue Tasks.
+
+   [Daily Note Recurring Tasks](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/7495e7b4582fdaf896b12761988c5e9b1421e2de/Materials-for-the-Exercises/Templates/Template_Daily_Note_with_Recurring_Tasks.md)<br>
+	→ This template includes sections for: Daily Thoughts, New Tasks, Tasks Due Today, Upcoming Tasks, Completed Tasks, Overdue Tasks, **and Recurring Tasks**.
    
-   [Daily Note Recurring Tasks](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8197ed3bb39987944e4d1772d2801c386d2f0f7e/Templates/Template_Daily_Note_with_Recurring_Tasks.md)
+   [Daily Note with Scheduled Today](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/7495e7b4582fdaf896b12761988c5e9b1421e2de/Materials-for-the-Exercises/Templates/Template_Daily_Note_with_Scheduled_Today.md)<br>
+   	→ This template includes sections for: Daily Thoughts, New Tasks, Tasks Due Today, **Tasks Scheduled for Today**, Upcoming Tasks, Completed Tasks, and Overdue Tasks.
    
-   [Daily Note with Scheduled Today](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8197ed3bb39987944e4d1772d2801c386d2f0f7e/Templates/Template_Daily_Note_with_Scheduled_Today.md)
-   
-   [Daily Note with Recurring Tasks und Scheduled Today](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8197ed3bb39987944e4d1772d2801c386d2f0f7e/Templates/Daily_Note_with_Recurring_Scheduled_Tasks.md)
-   
+   [Daily Note with Recurring Tasks und Scheduled Today](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/7495e7b4582fdaf896b12761988c5e9b1421e2de/Materials-for-the-Exercises/Templates/Daily_Note_with_Recurring_Scheduled_Tasks.md)<br>
+   	→ This template includes sections for: Daily Thoughts, New Tasks, Tasks Due Today, **Tasks Scheduled for Today**, Upcoming Tasks, Completed Tasks, Overdue Tasks, **and Recurring Tasks**.
    
    
 **OR**
@@ -78,13 +81,13 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 
 *Once you are familiar with the template you can delete the instructions within the template. These are your for a first understanding and guidance.*
 
-###### Understanding the Error Messages in the Template
+### Understand the Error Messages in the Template
 The message you are seeing (see screenshot below) indicates that the template placeholders (e.g., `<% today %>`) are not being expanded when viewed directly in the template file. This is normal behavior because the placeholders are intended to be replaced when the template is used, not when the template is viewed directly.
 
-![3_screenshot_attachment_folder_path](https://github.com/user-attachments/assets/0c4dcce3-2b84-4466-854a-3940914292a3)
+![4_error_message_template_daily_note](https://github.com/user-attachments/assets/fd47a260-1310-4a38-894b-db0ce37d464f)
 
 
-## 4. Settings in the community plugins
+## 4. Settings in the Community and Core Plugins
 
 *To make sure everything works properly, you need to adjust a few settings in the community plugins.*
 
@@ -94,8 +97,9 @@ The message you are seeing (see screenshot below) indicates that the template pl
 
 ## 5. Check if everything is working
 *Now you finished all settings for your daily workflow. Check if everythings works quite well.* 
-1. **Go to your vault and click on the left sidebar on the calendar icon ("Open today's daily note").**
-2. **Then a note with the template should open with the today's date.** 
+1. Go to your vault and click on the left sidebar on the calendar icon ("Open today's daily note").
+2. Then a note with the template should open with the today's date.
+3. The note sould be stored in BACKEND/DAILY NOTES.
 
 *In the next exercise there are some tips how you can use the daily note in your workflow.*
 
