@@ -1,5 +1,5 @@
 # How to use your Daily Note
-*(Duration approx. 30min)*
+*(Duration approx. 15min)*
 
 ## Scenario-Based Learning: Navigating Your Daily Note Experience
 
