@@ -23,7 +23,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 ![1_screenshot_create_a_note](https://github.com/user-attachments/assets/30341720-8508-4d31-8b54-e3c3f6034f52)
 
 
-1. **Click on the icon to create a new note or use the hotkey ctrl + n** (or on German keyboards strg + n)
+1. **Click on the icon to create a new note or use the hotkey ctrl (or strg) + n (windows) or cmd + n (MacOS)**
 2. **Rename the note to "Markdown Syntax** (your cheat sheet for learning Markdown syntax).
 3. **Copy and add the following to the new note you just created.**
 
@@ -37,6 +37,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 ### Markdown Syntax
 
 - **Headings**: Use `#` for headings. For example, `# Heading 1`, `## Heading 2`, up to `###### Heading 6`.
+	Note: There must be a space between `#` and the beginning of the title. Otherwise a tag is created instead of a header.
 - **Bold and Italics**: Use `*` or `_` for emphasis. For example, `*italic*` or `_italic_`, and `**bold**` or `__bold__`.
 - **Lists**: Use `-` or `*` for unordered lists, and numbers for ordered lists.
 - **Links**: Use `[text](URL)` for links.
@@ -44,6 +45,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 - **Code**: Use backticks `` `code` `` for inline code and triple backticks for code blocks.
 - **Horizontal Rules**: Use `---`, `***`, or `___` for horizontal rules.
 - **Checkbox**: Use `- [ ]` for checkboxes. You can check them by clicking in the box.
+	Note: There must be a space between `-` and `[ ]`. Otherwise Obsidian does not format the Markdown syntax into a checkbox that can be checked.
 ```
 
 ## Create a Folder "BACKEND"
