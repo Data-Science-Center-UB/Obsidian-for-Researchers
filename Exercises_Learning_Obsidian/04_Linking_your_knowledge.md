@@ -61,13 +61,13 @@ Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.or
 
 ### Linking a local file
 
-*It is also possible to write a link in a note in Obsidian that allows you to open a file from your computer. You need to insert the path to the file into the following link. You can find the path by right-clicking on the file and selecting "Copy as Path". Usually there will automatically will insert double quotation mark. you have to replace them with <  >*
+*It is also possible to write a link in a note in Obsidian that allows you to open a file from your computer. You need to insert a path to a file on your local device into the following link. You can find the path by right-clicking on a file and selecting "Copy as Path". Usually there will automatically will insert double quotation mark. You have to replace them with <  >*
 
 ```markdown
 [filename](<absolute-path>)
 ```
 
-*If you change the name of the local file the link will not automatically be updated.*
+*If you change the name of your local file on your local device (and with it the path to the file) the link in Obsidian will not automatically be updated.*
 
 ### Using Tags
 
@@ -75,11 +75,8 @@ Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.or
 
 *In this vault there exist two types to query tags:*
 1. You can use the **search bar** on the left (icon magnifier).
-2. You can **write a query and use the Dataview plugin** you installed in the exercises before. Here is an example for a list query of the tag #test . To see the command move with your courser to the field where you see the list and click on </>
+2. You can **write a query and use the Dataview plugin** you installed in the exercises before. Here is an example for a list query of the tag #test . Tip the following into a new note in your Obsidian Vault. After pressing the Enter key, Obsidian automatically transfers the command to a list. To see the command again move with your courser to the field where you see the list and click on </>
 
-```dataview 
-LIST
-FROM #test 
-```
+![6 1_using_tags_dataview](https://github.com/user-attachments/assets/07b59fa9-6754-4299-82f0-96fdc5375dd9)
 
 You can write many different kind of querys with the Dataview plugin. Check out the documentation: [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
