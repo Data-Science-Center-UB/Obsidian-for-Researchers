@@ -90,7 +90,7 @@ The message you are seeing (see screenshot below) indicates that the template pl
 
 1. **Settings** → **Templater** → set **Template folder location** to "BACKEND/TEMPLATES" → and turn on **Trigger Templater on new file creation**
 2. **Settings** → **Dataview** → enable **Enable JavaScript queries** and **Enable inline JavaScript queries**
-3. **Settings** → go to **Daily notes** → set **New file location** to "BACKEND/DAILY NOTE" → set **Template file location** to "BACKEND/TEMPLATES/Template_Daily_Note" (*This is the path to the template you just created in the step before.)*
+3. **Settings** → go to **Daily notes** → set **New file location** to "BACKEND/DAILY NOTES" → set **Template file location** to "BACKEND/TEMPLATES/Template_Daily_Note" (*This is the path to the template you just created in the step before.)*
 
 ## 5. Check if everything is working
 *Now you finished all settings for your daily workflow. Check if everythings works quite well.* 
