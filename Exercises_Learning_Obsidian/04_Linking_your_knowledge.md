@@ -75,8 +75,11 @@ Source: [Cats and dogs | IEEE Conference Publication](https://ieeexplore.ieee.or
 
 *In this vault there exist two types to query tags:*
 1. You can use the **search bar** on the left (icon magnifier).
-2. You can **write a query and use the Dataview plugin** you installed in the exercises before. Here is an example for a list query of the tag #test . Tip the following into a new note in your Obsidian Vault. After pressing the Enter key, Obsidian automatically transfers the command to a list. To see the command again move with your courser to the field where you see the list and click on </>
+2. You can **write a query and use the Dataview plugin** you installed in the exercises before. Here is an example for a list query of the tag #test . Copy the following into a new note in your Obsidian Vault. After pressing the Enter key, Obsidian automatically transfers the command to a list. To see the command again move with your courser to the field where you see the list and click on </>
 
-![6 1_using_tags_dataview](https://github.com/user-attachments/assets/07b59fa9-6754-4299-82f0-96fdc5375dd9)
+       ```dataview
+       LIST
+       FROM #test
+       ```
 
 You can write many different kind of querys with the Dataview plugin. Check out the documentation: [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
