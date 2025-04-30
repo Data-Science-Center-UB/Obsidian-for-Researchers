@@ -68,7 +68,13 @@ Before creating your third *Zettel*, open **Zotero**.
 
 
 
-## Step 4: Create a Subject Index
+## Step 4: Use the Graph View for your Zettelkasten
+1. **Open the graph view.**
+2. **Set the filter to:** "path:ZEKA/ZETTEL"
+3. *Here you can now see all the connections between the slips of paper. If you already have a lot of notes on a topic, you can consider whether it is worth creating an index page for the topic.*
+4. *To display all notes for a specific tag, you can create a new group in the graph view settings and assign a specific color to the day.*
+
+## Step 5: Create a Subject Index
 
 Since you now have three "Zettel" related to the topic of cats — and you plan to continue working on this subject — this is a great moment to create a dedicated tag page.
 
@@ -78,7 +84,7 @@ Since you now have three "Zettel" related to the topic of cats — and you plan 
 
 3. **Click the link** to generate the new page.
 
-4. **Inside the new "cats" page**, add a link to one of your cat-related Zettels.  
+4. **Inside the new "cats" page**, add a link to some of your cat-related Zettels.  
 	For example: `[[cats_in_space]]`
 
 *This link will serve as an **entry point** to all your notes about cats, helping you build a connected knowledge base around this theme.*
