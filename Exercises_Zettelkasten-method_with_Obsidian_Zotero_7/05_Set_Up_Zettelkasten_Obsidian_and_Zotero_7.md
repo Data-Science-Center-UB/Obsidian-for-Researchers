@@ -12,69 +12,69 @@
 
 *The naming convention is based on the exercises 1-4 in this GitHub Repo and also the settings in this exercises might be important for this exercise. Feel free to adapt this to your needs.*
 
-## Settings in Zotero
+## Step 1: Settings in Zotero
 
 *With the Zotero plugin Better BibTex you can manage your bibliographic data more easily if you use a Markdown editor. The plugin automatically generates a citation key that follows a form you have selected. In Obsidian our literature note will automatically named with this citation key.*
 
-**Download the .xpi file from the GitHub repository** [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v7.0.17)
+1. **Download the .xpi file from the GitHub repository** [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v7.0.17)
 
-[Click here for the documentation of Better BibTex](https://retorque.re/zotero-better-bibtex/index.html)
+	[Click here for the documentation of Better BibTex](https://retorque.re/zotero-better-bibtex/index.html)
 
-Install Better BibTex:
+2. Install Better BibTex:
 **Tools → Plugins → Settings → Install Plugin from file → select .xpi file → click open → restart zotero**
 
-Customize Better BibTex:
+3. Customize Better BibTex:
 **Edit → Settings → Better BibTex → Citation key → insert:**
+	
+	```
+	"z." + authEtal2(creator = "*", initials = false, sep = ".").fold + year
+	```
+	**Output:** z.Author.etal.year
+	
+	*I use the prefix “z.” so that I can easily distinguish between source notes from Zotero and source notes that I have only created in Obsidian.*
+	
+	*Please visit the plugin documentation if you would like to create a different cite key.*
 
-```
-"z." + authEtal2(creator = "*", initials = false, sep = ".").fold + year
-```
-**Output:** z.Author.etal.year
+4. **Display citation key in Zotero's Literatur List:**
+**Right-click on bar "Titel | Creator | Attachment" → select citation key** <br>
+	*Now you can see the citation key for each of your reference.*
 
-*I use the prefix “z.” so that I can easily distinguish between source notes from Zotero and source notes that I have only created in Obsidian.*
+5. **Document all settings in your CHANGELOG**
+## Step 2: Settings in Obsidian
 
-*Please visit the plugin documentation if you would like to create a different cite key.*
+1. **Community plugins → Browse → Zotero Integration by mgmeyers → Install → Enable**
 
-**Display citation key in Zotero's Literatur List:**
-**Right-click on bar "Titel | Creator | Attachment" → select citation key**
-*Now you can see the citation key for each of your reference.*
+2. **Open Zotero Integration Settings → set the "Note Import Location" → Enable "Open the created note after import"**
 
-→ **Document all settings in your CHANGELOG**
-## Settings in Obsidian
+*This part is important for the Zettelkasten (see next exercise):*
 
-**Community plugins → Browse → Zotero Integration by mgmeyers → Install → Enable**
+3. **Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "SOURCE_NOTES" and "ZETTEL" → set the Note Import Location in the Zotero Integration plugin to "ZEKA/SOURCE_NOTES"
 
-**Open Zotero Integration Settings → set the "Note Import Location" → Enable "Open the created note after import"**
-
-*For Zettelkasten (see next exercise):*
-
-**Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "SOURCE_NOTES" and "ZETTEL" → set the Note Import Location in the Zotero Integration plugin to "ZEKA/SOURCE_NOTES"
-
-→ **Document all settings in your CHANGELOG**
-## Settings in Obsidian and Zotero
+4. **Document all settings in your CHANGELOG**
+## Step 3: Settings in Obsidian and Zotero
 
 *Synchronize the citation format*
 
-*Zotero:* 
-**Edit → Settings → Cite → Select your Citation Format and remembere it (e.g. American Political Science Association)**
+1. *Zotero:* <br>
+	**Edit → Settings → Cite → Select your Citation Format and remembere it (e.g. American Political Science Association)**
 
-*Obsidian:* 
-**Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
+2. *Obsidian:* <br>
+	**Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
 
-**Import Formats → Add Import Format** <br>
-	**Name:** Add Source Notes <br>
-	**Output Path:** ZEKA/SOURCE_NOTEs/{{citekey}}.md <br>
-	**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/ <br>
-	**Template File:** BACKEND/TEMPLATES/Zotero_Template.md <br>
-	**Bibliography Style:** Select the same citation format like before <br>
+	**Import Formats → Add Import Format** <br>
+		**Name:** Add Source Notes <br>
+		**Output Path:** ZEKA/SOURCE_NOTEs/{{citekey}}.md <br>
+		**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/ <br>
+		**Template File:** BACKEND/TEMPLATES/Zotero_Template.md <br>
+		**Bibliography Style:** Select the same citation format like before <br>
 
-→ **Document all settings in your CHANGELOG**
-## Zettelkasten Set Up
+3. **Document all settings in your CHANGELOG**
+## Step 4: Zettelkasten Set Up
 
-1. **Zotero Template**
+**Zotero Template:**
 
-*In Obsidian:*
-**Add in Folder BACKEND/TEMPLATES** new note "Zotero_Template" and copy the following template in it (or use/build your own):
+1. *In Obsidian:* <br>
+	**Add in Folder BACKEND/TEMPLATES** new note "Zotero_Template" and copy the following template in it (or use/build your own):
 
 ```
 ---
@@ -103,17 +103,17 @@ created: {{importDate|format("YYYY-MM-DD")}}
 {% endfor %}
 ```
 
-*The template generates this output:*
+**The template generates this output:**
 ![7_screenshot_zotero_template](https://github.com/user-attachments/assets/60f8acf1-cc1c-4f00-8cc4-6a46793a913f)
 
 
-→ **Document all settings in your CHANGELOG**
+2. **Document all settings in your CHANGELOG**
 
 
-2. **Zettel Template**
+**Zettel Template:**
 
-*In Obsidian:*
-**Add in Folder BACKEND/TEMPLATES** new note "Zettel_Template" and copy the following template in it (or use/build your own):
+1. *In Obsidian:*<br>
+	**Add in Folder BACKEND/TEMPLATES** new note "Zettel_Template" and copy the following template in it (or use/build your own):
 
 ```
 ---
