@@ -67,13 +67,20 @@ Before creating your third *Zettel*, open **Zotero**.
 ![12_screenshot_toth_verzettelt](https://github.com/user-attachments/assets/9eebedcc-d96c-4655-966f-bdde79758eaa)
 
 
-
 ## Step 4: Use the Graph View for your Zettelkasten
-1. **Open the graph view.**
-2. **Set the filter to:** "path:ZEKA/ZETTEL"
-3. *Here you can now see all the connections between the slips of paper. If you already have a lot of notes on a topic, you can consider whether it is worth creating an index page for the topic.*
-4. *To display all notes for a specific tag, you can create a new group in the graph view settings and assign a specific color to the day.*
+*Click the graph view icon in the left toolbar to open it:*
 
+![12_screenshot_open_graph_view](https://github.com/user-attachments/assets/a08351bd-5834-4796-a862-3b6a3b4c405b)
+
+*At first, you'll see all your notes in the graph view. On the right side, you can open the graph view settings to filter which notes are displayed. In the search bar, type `path:ZEKA/ZETTEL`. Now, only the notes in your Zettelkasten will be shown.*
+*Experiment with the settings and take a look at the documentation for more guidance: [Graph view - Obsidian Help](https://help.obsidian.md/plugins/graph)*
+
+![13_screenshot_settings_graph_view](https://github.com/user-attachments/assets/80ad0cc2-82b4-4609-bbdf-5a53c374efc2)
+
+*Here you can now see all the connections between the slips of paper. If you already have a lot of notes on a topic, you can consider whether it is worth creating an index page for the topic.*
+
+*To display all notes for a specific tag, you can create a new group in the graph view settings and assign a specific color to the day.*
+   
 ## Step 5: Create a Subject Index
 
 Since you now have three "Zettel" related to the topic of cats — and you plan to continue working on this subject — this is a great moment to create a dedicated tag page.
