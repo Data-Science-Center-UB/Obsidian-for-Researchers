@@ -4,11 +4,11 @@
 - Create and Link "Zettel" in Obsidian
 - Using the Zettel Template, includes explanation of the template
 
-## Your first "Zettel": Lunch with Colleagues
+## Step 1: Your first "Zettel": Lunch with Colleagues
 
 *After lunch your back in your office. At lunch colleague told you about his cat and suddenly you got an idea for your article.*
 
-**Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (windows) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space" 
+1. **Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (windows) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space" 
 
 **Note:** In most cases, the Windows hotkeys cannot be used for MacOS. You can set these up manually: Settings → Hotkeys → search for “Insert Template” → press alt + e (or Option + e on Mac)
 
@@ -50,21 +50,21 @@ Idea for introduction: Cats in space are funny.
 
 6: *In this section you link your "Zettel" to another "Zettel". Make sure that the "Zettel" is connected to your knowledge base. Otherwise you will lose the "Zettel" between the others. Choose one or two links which relates to the topic of your note. Don't use more links, it will clutter your Graphview (see exercise 05d). By typing `[[]]` into the note, you can search through your notes to find a fitting one. For demonstration purposes, I’ve added a placeholder here.* 
 
-## Your second "Zettel": An Idea Based on the First "Zettel"
+## Step 2: Your second "Zettel": An Idea Based on the First "Zettel"
 
 *While creating your first "Zettel" an idea comes into your mind: You want to generate a picture for your publication. With the help of AI you generate a picture with cats in space and connect it to your first "Zettel".*
 
-→ **Generate a picture with the help of AI or download one from this GitHub Repo** → "Materials-for-the-Exercises" → "For_Exercise_05b_ChatGPT Image 9. Apr. 2025, 19_24_48.png"
+1. **Generate a picture with the help of AI or download one from this GitHub Repo** → "Materials-for-the-Exercises" → "For_Exercise_05b_ChatGPT Image 9. Apr. 2025, 19_24_48.png"
 
-**Change the link in your first "Zettel"** (Link_to_related_Zettel) into "picture_cats_in_space" → **create a new note** by clicking on the link → **press alt + e** → **select** "Zettel_Template"
+2. **Change the link in your first "Zettel"** (Link_to_related_Zettel) into "picture_cats_in_space" → **create a new note** by clicking on the link → **press alt + e** → **select** "Zettel_Template"
 
 **Tip: Enable Backlink View:**
 
 *I recommend to enable the feature so you can see the backlinks of your notes permanently in your note.*
 
-**Settings** → **Core Plugin** → **Backlinks** → **Enable** "Show Backlinks at the bottom of your notes"
+3. **Settings** → **Core Plugin** → **Backlinks** → **Enable** "Show Backlinks at the bottom of your notes"
 
-*To activate it, close and reopen the note. You can now collapse the right sidebar, as the backlinks are no longer needed here.*
+4. To activate it, **close and reopen the note.** You can now collapse the right sidebar, as the backlinks are no longer needed here.
 
 *Now you see the Zettel Template in your note and you can fill it like this:*
 
