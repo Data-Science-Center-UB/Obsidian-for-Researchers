@@ -1,15 +1,34 @@
 # Obsidian-for-Researchers
 
 ## 🧭 Overview
+This repository provides two core learning resources designed to help you use Obsidian for scientific research — whether you're just getting started or looking to enhance an existing workflow:
 
-This repository offers two main resources to help you use Obsidian for scientific research:
+🔹 1. Learn the Basics of Obsidian
+A step-by-step guide that introduces the fundamental features of Obsidian.
+You’ll learn how to:
 
-**1. Step-by-step instructions** for learning the core features of Obsidian while building your own research-supporting Vault. Small, real-world scenarios illustrate how the Vault’s features can be applied in practice.
+Set up your personal Vault
 
-**2. A completed example Vault** that you can download and explore directly in Obsidian.
+Use templates to streamline your daily workflow
 
-If you're new to Obsidian, I recommend starting with the guided instructions — they not only teach the basics but also help you understand the Vault's structure.
-If you're already familiar with Obsidian, you can dive into the finished Vault and use the instructions as a reference to explore its features.
+Organize and track tasks efficiently
+
+🔹 2. Apply the Zettelkasten Method with Obsidian and Zotero
+A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
+
+Connecting Obsidian with Zotero 7
+
+Transferring literature-based knowledge into your Vault
+
+Building a personal system for long-term academic thinking and writing
+
+Each resource is available in two formats:
+
+Step-by-step instructions – ideal for beginners who want to build understanding while creating their Vault
+
+A finished example Vault – recommended for advanced users who want to dive in and explore the setup right away
+
+Choose the path that fits your needs — or combine both to get the most out of your Obsidian research workflow.
 
 ## 📝 What You’ll Learn
 
