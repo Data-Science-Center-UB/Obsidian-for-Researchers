@@ -59,4 +59,11 @@ Download the folder xy and open it in Obsidian.
 
 ## 💬 Feedback and Contribution
 
+This repository is currently in a **testing phase**. The official first version will be released in **July 2025**.
+
+If you'd like to give feedback, report issues, or suggest improvements, please use the [Issues](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/issues) section of the repository.  
+
+Thank you for helping improve this resource!
+
 ## 📄 License
+The license is determined after the test phase.
