@@ -31,7 +31,7 @@ Idea for introduction: Cats in space are funny.
 
 **Tip:** To change between preview mode and source mode press **strg + p**  → "Toggle Live Preview/Source mode"
 
-*It should look like this:*
+*It should look like this:* <br>
 
 ![8_screenshot_zettel_template](https://github.com/user-attachments/assets/73eff2d2-ded9-407b-bc1a-f92dcbd6bb63)
 
@@ -85,7 +85,9 @@ ChatGPT Image 9. Apr. 2025, 19_24_48
 
 *Use drag-and-drop to insert the cat image from your local device under the “Output” header.*
 
-*It should look like this:*
+*It should look like this:* <br>
 ![9_screenshot_zettel_cats_in_space](https://github.com/user-attachments/assets/39e0b165-bbb9-4f34-aac0-11f0cbbbfded)
 
 *I did not fill in the section "Link", because the "Zettel" is already linked to a "Zettel" via the backlink function.*
+
+**Important: Move both Zettel into the "ZETTEL" folder.**
