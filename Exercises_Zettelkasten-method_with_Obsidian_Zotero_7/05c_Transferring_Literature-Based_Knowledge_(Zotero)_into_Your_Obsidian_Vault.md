@@ -9,19 +9,25 @@
 Before creating your third *Zettel*, open **Zotero**.
 
 1. **Add the article** from Exercise 03a as a PDF to your Zotero library.  
-   **DOI:** [Feline gravity manipulation](https://doi.org/10.1109/CVPR.2012.6248092)
+   **DOI:** [Feline gravity manipulation](https://doi.org/10.48550/arXiv.2503.22919)
 
-2. **Highlight the following paragraph:**
+2. **Highlight the following paragraphs and add the comments to them:**
 
-   > *"To this end, we propose a theoretical model, which we tentatively call Modified Feline Gravitational Dynamics or MOFEGD."*
+   >**Paragraph:** "In 1922, the renowned British explorer Sir Archibald Whiskerton-Paws made a startling discovery in the longlost city of Mau-nekhet-ra. Hidden deep in the tomb of the enigmatic Pharaoh Felinhotep III, Whiskerton-Paws uncovered a series of remarkably preserved murals depicting cats in flight. These images, dating back to the 20th Dynasty (circa 1100 BCE), indeed the reverence of cats throughout the history of ancient Egyptian society, puzzled Egyptologists for decades [1]." <br>
+   >**Comment:** The notion of cats in flight, especially within the context of space, playfully bridges ancient mythology with modern imagination. It evokes images of celestial felines gracefully navigating the cosmos, perhaps as guardians of the stars or as symbols of mystery and independence. This fusion of ancient reverence and contemporary fantasy underscores humanity's enduring fascination with cats and their enigmatic allure. #p1_literature_review
+   >
+   > **Paragraph:** "Cats indeed, uniquely in the animal kingdom, possess the ability to manipulate gravity." <br>
+   > **Comment:** Cats can manipulate gravity. #p1_literature_review
+   >
+   >
+   >**Paragraph:** "To this end, we propose a theoretical model, which we tentatively call Modified Feline Gravitational Dynamics or MOFEGD." <br>
+   > **Comment:** MOFEGDE as a method should be used across the board; it is considered one of the author's most important discoveries. #p1_literature_review
+   >
+   >
+   > **Paragraph:** Select Area: Figure 1, with the subtitle <br>
+   > **Comment:** A flying cat circa 1100 BCE. #p1_literature_review
 
-3. **Add this comment to the highlighted paragraph:**
-
-   > MOFEGDE as a method should be used across the board; it is considered one of the author's most important discoveries.
-
-4. **Add a the tag `#p1_literature_review` to the comment.**
-
-5. **Clean up the reference item:**
+3. **Clean up the reference item:**
    - Remove all existing tags from the reference item (not the PDF).
    - Add the tag: `skimmed`
 
@@ -34,26 +40,33 @@ Before creating your third *Zettel*, open **Zotero**.
 4. **Search for and select the reference:** *Toth, 2025*
 5. **Press** `Enter`.
 
-![10_screenshot_zotero_template](https://github.com/user-attachments/assets/c8f7d5fb-fbbe-437e-ada5-fa1aef8bcddc)
+![10_screenshot_zotero_template](https://github.com/user-attachments/assets/ac48fcdc-740b-456c-ba87-23e971364746)
+
 
 
 ## Step 3: Turn the Knowledge into a "Zettel"
 
-*Each paragraph and its comment can now become an individual "Zettel". If you have many paragraphs, start with the most important ones. You can return later to process the rest.*
+*Each paragraph and its comment can now become an individual "Zettel". If you have a lot of paragraphs, start with the most important ones. You can return later to process the rest.*
 
 1. **Under the section containing the abstract, write the following link:**
-	`[[error_pets_wearing_clothes]]`
+	`[[flying_cats_acient_mythology_and_modern_aera]]`
 
-**Click the link and create a new note** → **Press** ALT + E → **Select** "Zettel_Template"
+2. **Click the link and create a new note** → **Press** ALT + E → **Select** "Zettel_Template" or **Press** ctr + p → "Templater: Open insert template modal → **Select** "Zettel_Template"
 
-2. **Click the link** to create a new note.
-
-3. **Press** `Alt + E`, then **select** *Zettel_Template* to structure your note.
-
-4. **Organize the content in the "Zettel"** as shown below.  
+3. **Cut and paste the content in the "Zettel"** as shown below.  
 	*(You don’t need to fill in the reference section — backlinks will cover this.)*
+<br>
 
-![11_screenshot_zettel_error_pets_wearing_clothes](https://github.com/user-attachments/assets/7b3c16ac-8a91-459c-9a7b-80621d8161da)
+![11_screenshot_zettel_flying_cats_acient_mythology_and_modern_aera](https://github.com/user-attachments/assets/a55768a7-7c56-4d8b-8261-cc86f1467846)
+
+
+5. **Repeate this for all of your paragraphs. Don't forget linking each Zettel to another. Move the Zettel (notes) you have just created to the "ZETTEL" folder.**
+   **Note:** Copy the tag in the line "tags" without the #
+7. **In the end it might look like this:**
+
+![12_screenshot_toth_verzettelt](https://github.com/user-attachments/assets/9eebedcc-d96c-4655-966f-bdde79758eaa)
+
+
 
 ## Step 4: Create a Subject Index
 
