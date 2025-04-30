@@ -3,30 +3,23 @@
 ## 🧭 Overview
 This repository provides two core learning resources designed to help you use Obsidian for scientific research — whether you're just getting started or looking to enhance an existing workflow:
 
-🔹 1. Learn the Basics of Obsidian
+**1. Learn the Basics of Obsidian**
 A step-by-step guide that introduces the fundamental features of Obsidian.
 You’ll learn how to:
+- Set up your personal Vault
+- Use templates to streamline your daily workflow
+- Organize and track tasks efficiently
 
-Set up your personal Vault
-
-Use templates to streamline your daily workflow
-
-Organize and track tasks efficiently
-
-🔹 2. Apply the Zettelkasten Method with Obsidian and Zotero
+**2. Apply the Zettelkasten Method with Obsidian and Zotero**
 A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
+- Connecting Obsidian with Zotero 7
+- Transferring literature-based knowledge into your Vault
+- Building a personal system for long-term academic thinking and writing
 
-Connecting Obsidian with Zotero 7
+**Each resource is available in two formats:**
 
-Transferring literature-based knowledge into your Vault
-
-Building a personal system for long-term academic thinking and writing
-
-Each resource is available in two formats:
-
-Step-by-step instructions – ideal for beginners who want to build understanding while creating their Vault
-
-A finished example Vault – recommended for advanced users who want to dive in and explore the setup right away
+- Step-by-step instructions – ideal for beginners who want to build understanding while creating their Vault
+- A finished example Vault – recommended for advanced users who want to dive in and explore the setup right away
 
 Choose the path that fits your needs — or combine both to get the most out of your Obsidian research workflow.
 
@@ -52,10 +45,17 @@ Download the folder xy and open it in Obsidian.
 
 ## 📂 Folder Structure
 
-📁 Exercises_Learning_Obsidian                               **← Learn Obsidian – Step-by-Step Instructions** <br>
-📁 Exercises_Zettelkasten-method_with_Obsidian_Zotero_7      **← Learning the Zettelkasten Method with Obsidian and Zotero 7 – A Step-by-Step Guide** <br>
-📁 Materials-for-Exercises                                   **← Templates and Resources for the Exercises** <br>
-📄 README.md                                                 **← Start by reading the README file** <br>
+📁 Exercises_Learning_Obsidian <br>
+ - **Learn Obsidian – Step-by-Step Instructions** <br>
+ 
+📁 Exercises_Zettelkasten-method_with_Obsidian_Zotero_7 <br>
+- **Learning the Zettelkasten Method with Obsidian and Zotero 7 – A Step-by-Step Guide** <br>
+
+📁 Materials-for-Exercises <br>
+- **Templates and Resources for the Exercises** <br>
+
+📄 README.md <br>
+- **Start by reading the README file** <br>
 
 ## 💬 Feedback and Contribution
 
