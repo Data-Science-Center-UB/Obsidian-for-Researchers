@@ -37,11 +37,17 @@ I don't use tags to assign a note to a main topic. I have had bad experiences wi
 ***Nevertheless, I use tags in a specific way:***
 
 **Tags in Zotero:**
-*In Zotero, I only use a few colored tags to record the way I read a text: `#read, #selective_read, #in_progress, #skimmed.` The color is then displayed in the overview of my references. This gives me a quick overview of what I have already read and what I have not.*
+*In Zotero, I only use a few colored tags to record the way I read a text: `#read_complete #selective_read #skimmed #inprogress #read_next 
+<br>
+![Zotero_tags](https://github.com/user-attachments/assets/69353393-3315-41f9-9ee6-3ac6ee31ac6a)
+<br>
+The color is then displayed in the overview of my references. This gives me a quick overview of what I have already read and what I have not.*
 
 **Tags in Obsidian:**
 *In Obsidian, I use tags to assign notes to a project. This is a flexible tag system. When I have a new project, I can simply add a new tag to existing notes and associate them with the project. This is a more output-oriented way of using tags.*
 
-*Example: I am doing a cumulative doctorate and am currently working on the first paper. For my three papers I have the tags: `#p1_literature_review, #p2_pre_study, #p3_main_study.` After a while, the structure of the first paper slowly emerges and I add `#p1_1_introduction, #p1_2_key_findings`*
+*Example: I am doing a cumulative doctorate and am currently working on the first paper.<br>
+For my three papers I have the tags: `#p1/lit_review #p2/pre_study #p3/main_study`<br>
+After a while, the structure of the first paper slowly emerges and I add `#p1/lit_review/intro #p1/lit_review/key_findings`*
 
 ***That's the theory, let's dive into the practice. In the next instructions there are examples of applications that show how the whole thing can be used.***
