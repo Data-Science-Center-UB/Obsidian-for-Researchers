@@ -63,7 +63,7 @@
 
 	**Import Formats → Add Import Format** <br>
 		**Name:** Add Source Notes <br>
-		**Output Path:** ZEKA/SOURCE_NOTEs/{{citekey}}.md <br>
+		**Output Path:** ZEKA/SOURCE_NOTES/{{citekey}}.md <br>
 		**Image Output Path:** BACKEND/ATTACHMENT/{{citekey}}/ <br>
 		**Template File:** BACKEND/TEMPLATES/Zotero_Template.md <br>
 		**Bibliography Style:** Select the same citation format like before <br>
