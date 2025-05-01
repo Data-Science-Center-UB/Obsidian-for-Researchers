@@ -7,7 +7,7 @@
 ## Step 1: Collecting Ideas for a Paper
 
 1. **Open** `[[Publication Idea Collection]]` (created it exercise 04)
-2. Here you can see our test query with the dataview plugin. **Replace `#test` with `#p1_literature_review` in the command.** (See "Backround Information Query's to Filter your Zettelkasten" below.) Now all the papers you have assigned to this tag are displayed. 
+2. Here you can see our test query with the dataview plugin. **Replace `#test` with `#p1/lit_review` in the command.** (See "Backround Information Query's to Filter your Zettelkasten" below.) Now all the papers you have assigned to this tag are displayed. 
 3. You can start writing the first draft of your paper. To do this, write `[[2025_paper_cats_gravity_v1]]` in your collection of ideas and create the note.
 4. Here, you can start drafting the structure of your paper and begin collecting Zettels. For example, you might write something like this:
 
@@ -41,11 +41,10 @@
 
 *The Dataview plugin allows you to write queries and display your "Zettel's" in a specific, customizable way. This lets you view all notes with a particular tag (or all notes related to your project) with just a single click. For example:*
 
-
 	```dataview 
 	LIST 
 	FROM "ZEKA/ZETTEL"
-	AND #p1_literature_review 
+	AND #p1/lit_review
 	```
 *Idea: For example, you can add this to the “Ideas Collection Publication” note that you created in the “Learning Obsidian” exercises. You can then automatically display all notes that are relevant for this publication.*
 
