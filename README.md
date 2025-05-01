@@ -3,14 +3,14 @@
 ## 🧭 Overview
 This repository provides two core learning resources designed to help you use Obsidian for scientific research — whether you're just getting started or looking to enhance an existing workflow:
 
-**1. Learn the Basics of Obsidian**
+**1. Learn the Basics of Obsidian** <br>
 A step-by-step guide that introduces the fundamental features of Obsidian.
 You’ll learn how to:
 - Set up your personal Vault
 - Use templates to streamline your daily workflow
 - Organize and track tasks efficiently
 
-**2. Apply the Zettelkasten Method with Obsidian and Zotero**
+**2. Apply the Zettelkasten Method with Obsidian and Zotero 7** <br>
 A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
 - Connecting Obsidian with Zotero 7
 - Transferring literature-based knowledge into your Vault
@@ -21,7 +21,7 @@ A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
 - Step-by-step instructions – ideal for beginners who want to build understanding while creating their Vault
 - A finished example Vault – recommended for advanced users who want to dive in and explore the setup right away
 
-Choose the path that fits your needs — or combine both to get the most out of your Obsidian research workflow.
+Choose the path that fits your needs.
 
 ## 📝 What You’ll Learn
 
