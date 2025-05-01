@@ -3,6 +3,7 @@
 - Transfer knowledge from Zotero to Obsidian.
 - Process this knowledge using the **Zettelkasten method** in your Obsidian vault.
 - This task requires that you have a basic understanding of how Zotero works.
+- Note: This workflow is for reading and annotating PDFs in Zotero and then processing the annotations in Obsidian. If you have read a non-digital book or paper and have written the annotations in the notes section of the Zotero item, then complete the template as described in Step 6.
 
 ## Step 1: Prepare the Article in Zotero
 
@@ -97,4 +98,13 @@ Since you now have three "Zettel" related to the topic of cats — and you plan 
 *This link will serve as an **entry point** to all your notes about cats, helping you build a connected knowledge base around this theme.*
 
 ---
+
+## Step 6 Annotations with the Note Function in Zotero (optional)
+
+*If you have read a non-digital book or paper and have written the annotations in the notes section of the Zotero item, then complete the template as described:*
+
+1. **Open Zotero Template in Obsidian.**
+2. **Insert** `{{markdownNotes}}` as the last line in the template.
+
+**Note:** If you want to customize the Zotero template, the “Zotero Integration: Data Explorer” (ctrl + p) is a helpful tool. Using a selected source note, you can see which commands you can use to transfer which element from Zotero to Obsidian.
 
