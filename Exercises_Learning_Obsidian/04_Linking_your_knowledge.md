@@ -26,9 +26,9 @@ AND
 **Remember:** Add your changes in the settings to your CHANGELOG.
 #### Exercise: Linking to other notes
 
-*You found an "important" (or funny) research article about cats and gravity in the previous exercise (Link: Use_the_Daily_Workflow). It's now afternoon and you have time to read the article.*
+*You found an "important" (or funny) research article about cats and gravity in the previous exercise ([Use_the_Daily_Workflow](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8da3183211d6a04909eb5b30921878fcc7c11ad6/Exercises_Learning_Obsidian/03a_Use_the_Daily_Workflow.md)). It's now afternoon and you have time to read the article.*
 
-1. **Write behind the task** "- [ ] Check literature [...]" (in your Daily Note, see exercise 2.2) the following:
+1. **Write behind the task** "- [ ] Check literature [...]" (in your Daily Note, see [Use_the_Daily_Workflow](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/8da3183211d6a04909eb5b30921878fcc7c11ad6/Exercises_Learning_Obsidian/03a_Use_the_Daily_Workflow.md)) the following:
 ```markdown 
 [[Feline gravity manipulation]]
 ```
