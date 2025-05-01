@@ -17,7 +17,8 @@
 ```
 ---
 Created: 2025-04-09 18:41
-tags: p1_literature_review
+tags: p1/lit_review
+
 ---
 ### Input
 Colleagues story about his cat. 
@@ -32,8 +33,8 @@ Idea for introduction: Cats in space are funny.
 **Tip:** To change between preview mode and source mode press **strg + p**  → "Toggle Live Preview/Source mode"
 
 *It should look like this:* <br>
+![8_screenshot_zettel_template](https://github.com/user-attachments/assets/576e9902-ad45-4d90-b190-7c572018d59c)
 
-![8_screenshot_zettel_template](https://github.com/user-attachments/assets/73eff2d2-ded9-407b-bc1a-f92dcbd6bb63)
 
 **Explanation of the Zettel structure**
 *This is a structure of a Zettel I like. It is not the way Luhmann did it. He had less structure in his notes, which is perfectly fine. Please choose the way it suits for you.*
@@ -71,7 +72,8 @@ Idea for introduction: Cats in space are funny.
 ```
 ---
 Created: 2025-04-10 10:51
-tags: p1_literature_review
+tags: p1/lit_review
+
 ---
 ### Input
 Prompt: Cats in space are funny.
