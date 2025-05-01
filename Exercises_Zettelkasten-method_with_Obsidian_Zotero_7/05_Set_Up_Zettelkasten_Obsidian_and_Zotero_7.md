@@ -104,7 +104,7 @@ created: {{importDate|format("YYYY-MM-DD")}}
 ```
 
 **The template generates this output:**
-![7_screenshot_zotero_template](https://github.com/user-attachments/assets/60f8acf1-cc1c-4f00-8cc4-6a46793a913f)
+![7_screenshot_zotero_template](https://github.com/user-attachments/assets/2cfabc3e-0f57-4626-8091-70c1d1e7a70e)
 
 
 2. **Document all settings in your CHANGELOG**
