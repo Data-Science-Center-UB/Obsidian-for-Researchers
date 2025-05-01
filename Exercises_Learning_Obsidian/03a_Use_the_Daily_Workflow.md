@@ -13,7 +13,7 @@
 
 **1. Open the daily note.**
 
-**2. Plan reading a article**
+**2. Plan reading an article**
 You receive an email with a promising reference to a article that's perfectly suited to your field. You don't have time to read the article now as you have a meeting soon, but you want to get an overview of the text this afternoon. Go to your Daily Note and write under **New**: 
 
 ```markdown
@@ -79,7 +79,7 @@ The task now appears in the section "Upcoming Tasks"
 2.3 While your colleagues are discussing a topic, you come up with an idea on how to write the introduction for the publication you're currently working on. Note under **Daily Log** your idea and link it to a potential idea collection of the publication: 
 
 ```markdown
-- Introduction: sunflowers, interview, newspaper [[Ideas Collection Publication]]
+- Introduction: sunflowers, interview, newspaper [[Publication Idea Collection]]
 ```         
 
 **Core Obsidian Function: Linking Notes**
