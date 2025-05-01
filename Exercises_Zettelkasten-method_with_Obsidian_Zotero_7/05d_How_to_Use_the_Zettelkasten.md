@@ -8,7 +8,7 @@
 
 1. **Open** `[[Publication Idea Collection]]` (created it exercise 04)
 2. Here you can see our test query with the dataview plugin. **Replace `#test` with `#p1_literature_review` in the command.** (See explaination below.) Now all the papers you have assigned to this tag are displayed. 
-3. You can start writing the first draft of your paper. To do this, write `[[2025_paper_cats_gravity_v1]]` in your collection of ideas.
+3. You can start writing the first draft of your paper. To do this, write `[[2025_paper_cats_gravity_v1]]` in your collection of ideas and create the note.
 4. Here, you can start drafting the structure of your paper and begin collecting Zettels. For example, you might write something like this:
 
 ```
