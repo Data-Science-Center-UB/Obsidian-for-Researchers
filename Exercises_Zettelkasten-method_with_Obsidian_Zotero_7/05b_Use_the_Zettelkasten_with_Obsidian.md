@@ -88,7 +88,8 @@ ChatGPT Image 9. Apr. 2025, 19_24_48
 *Use drag-and-drop to insert the cat image from your local device under the “Output” header.*
 
 *It should look like this:* <br>
-![9_screenshot_zettel_cats_in_space](https://github.com/user-attachments/assets/39e0b165-bbb9-4f34-aac0-11f0cbbbfded)
+![9_screenshot_zettel_cats_in_space](https://github.com/user-attachments/assets/74a12a9e-deb7-4c6c-af52-b9cea2e2eee5)
+
 
 *I did not fill in the section "Link", because the "Zettel" is already linked to a "Zettel" via the backlink function.*
 
