@@ -1,4 +1,0 @@
-```dataview
-LIST
-FROM #test
-```
