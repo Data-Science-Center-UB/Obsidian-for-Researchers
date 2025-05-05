@@ -59,7 +59,8 @@ Before creating your third *Zettel*, open **Zotero**.
 
 
 <br>
-5. **Repeate this for all of your paragraphs. Don't forget linking each Zettel to another. Move the Zettel (notes) you have just created to the "ZETTEL" folder.**
+
+5. **Repeate this for all of your paragraphs. Don't forget linking each Zettel to another. Move the Zettel (notes) you have just created to the "ZETTEL" folder.**<br>
    **Note:** Copy the tag in the line "tags" without the #
 7. **In the end it might look like this:**
 
@@ -88,9 +89,7 @@ Since you now have three "Zettel" related to the topic of cats — and you plan 
 
 2. **Create a new note titled:** `[[cats]]`
 
-3. **Click the link** to generate the new page.
-
-4. **Inside the new "cats" page**, add a link to some of your cat-related Zettels.  
+3. **Inside the new "cats" page**, add a link to some of your cat-related Zettels.  
 	For example: `[[cats_in_space]]`
 
 *This link will serve as an **entry point** to all your notes about cats, helping you build a connected knowledge base around this theme.*
