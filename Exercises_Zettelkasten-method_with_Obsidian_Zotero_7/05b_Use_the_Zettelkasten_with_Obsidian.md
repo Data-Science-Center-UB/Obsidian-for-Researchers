@@ -59,14 +59,6 @@ Idea for introduction: Cats in space are funny.
 
 2. **Change the link in your first "Zettel"** (Link_to_related_Zettel) into "picture_cats_in_space" → **create a new note** by clicking on the link → **press alt + e** → **select** "Zettel_Template"
 
-**Tip: Enable Backlink View:**
-
-*I recommend to enable the feature so you can see the backlinks of your notes permanently in your note.*
-
-3. **Settings** → **Core Plugin** → **Backlinks** → **Enable** "Show Backlinks at the bottom of your notes"
-
-4. To activate it, **close and reopen the note.** You can now collapse the right sidebar, as the backlinks are no longer needed here.
-
 *Now you see the Zettel Template in your note and you can fill it like this:*
 
 ```
@@ -94,3 +86,11 @@ ChatGPT Image 9. Apr. 2025, 19_24_48
 *I did not fill in the section "Link", because the "Zettel" is already linked to a "Zettel" via the backlink function.*
 
 **Important: Move both Zettel into the "ZETTEL" folder.**
+**Tip: Enable Backlink View:**
+
+*I recommend to enable the feature so you can see the backlinks of your notes permanently in your note.*
+
+3. **Settings** → **Core Plugin** → **Backlinks** → **Enable** "Show Backlinks at the bottom of your notes"
+
+4. To activate it, **close and reopen the note.** You can now collapse the right sidebar, as the backlinks are no longer needed here.
+
