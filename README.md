@@ -54,6 +54,8 @@ Download the folder xy and open it in Obsidian.
 📁 Materials-for-Exercises <br>
 - **Templates and Resources for the Exercises** <br>
 
+📁 Ready-to-Use_Obsidian_Vaults <br>
+- **Vaults based on the Provided Instructions**
 📄 README.md <br>
 - **Start by reading the README file** <br>
 
