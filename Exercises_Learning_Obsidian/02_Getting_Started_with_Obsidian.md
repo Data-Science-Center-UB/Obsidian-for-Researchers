@@ -26,6 +26,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 1. **Click on the icon to create a new note or use the hotkey ctrl (or strg) + n (windows) or cmd + n (MacOS)**
 2. **Rename the note to "Markdown Syntax"** (your cheat sheet for learning Markdown syntax).
 3. **Copy and add the following to the new note you just created.**
+4. **Feel free to play around with the Markdown syntax in the space below the note.**
 
 ```markdown
 *Markdown is a lightweight markup language that allows you to format text easily.*
@@ -44,7 +45,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 	Note: There must be a space between `-` and `[ ]`. Otherwise Obsidian does not format the Markdown syntax into a checkbox that can be checked.
 ```
 
-*Feel free to play around with the Markdown syntax in the space below the note.*
+
 
 ## Create a Folder "BACKEND"
 
