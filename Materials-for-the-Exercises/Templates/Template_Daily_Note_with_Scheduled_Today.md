@@ -33,6 +33,10 @@ _All tasks with upcoming deadlines._
 due after <% today %>
 not done
 ```
+```
+scheduled after <% today %>
+not done
+```
 
 #### Done Today
 _Completed tasks for today._
