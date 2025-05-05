@@ -30,7 +30,7 @@ You receive an email with a promising reference to a article that's perfectly su
 
 *Before the meeting you check your overdue task list. You see a task that you took on after your last meeting that you forgot to do. You complete the task quickly so that you can tell the others straight away that you've done it.*
 
-1. To simulate this situation, **type the following under "Daily Note":**
+1. To simulate this situation, **type the following under "Daily Log":**
 
 ```markdown
 - [ ] Write important email to an important person
