@@ -26,6 +26,13 @@ _Tasks scheduled to start today._
 scheduled today
 not done
 ```
+#### Upcoming Tasks
+_All tasks with upcoming deadlines._
+
+```tasks
+due after <% today %>
+not done
+```
 
 #### Done Today
 _Completed tasks for today._
