@@ -47,12 +47,7 @@
 2. **Community plugins → Browse → Zotero Integration by mgmeyers → Install → Enable**
 3. **Open Zotero Integration Settings → Enable "Open the created note after import"**
 4. **Open Zotero Integration Settings → set the "Note Import Location" to "ZEKA/SOURCE_NOTES"**
-
-*This part is important for the Zettelkasten (see next exercise):*
-
-
-
-4. **Document all settings in your CHANGELOG**
+5. **Document all settings in your CHANGELOG**
 
 ## Step 3: Set Up Templates for Zettel and Source Notes
 
