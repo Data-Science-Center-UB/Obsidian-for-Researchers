@@ -16,10 +16,12 @@ A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
 - Transferring literature-based knowledge into your Vault
 - Building a personal system for long-term academic thinking and writing
 
+❗️The second exercise builds on the settings of the first. Starting exclusively with the second exercise is at your own risk.
+
 **Each resource is available in two formats:**
 
 - Step-by-step instructions – ideal for beginners who want to build understanding while creating their Vault
-- A finished example Vault – recommended for advanced users who want to dive in and explore the setup right away
+- A finished example Vault – recommended for advanced users who want to dive in and explore the setup right away (see section 'Quick Start')
 
 Choose the path that fits your needs.
 
@@ -39,8 +41,8 @@ Choose the path that fits your needs.
 - Develop a detailed workflow using the Zettelkasten approach
 
 ## 🚀 Quick Start
-
-Download the folder xy and open it in Obsidian.
+It is possible to download the results of the exercises. So the Vault, which you get at the end of the first Exercise and the Vault, which is at the end of the second Exercise.
+Follow the instructions: https://github.com/nfuchs-DSC/Obsidian-for-Researchers/tree/7d51c6fd277cfe65d4ab9c18e5017ea0b5f190ad/Ready-to-use_Obsidian_Vaults
 
 
 ## 📂 Folder Structure
