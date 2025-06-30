@@ -42,7 +42,7 @@ Choose the path that fits your needs.
 
 ## 🚀 Quick Start
 It is possible to download the results of the exercises. So the Vault, which you get at the end of the first Exercise and the Vault, which is at the end of the second Exercise.
-Follow the instructions: https://github.com/nfuchs-DSC/Obsidian-for-Researchers/tree/7d51c6fd277cfe65d4ab9c18e5017ea0b5f190ad/Ready-to-use_Obsidian_Vaults
+Follow the instructions: [Ready-to-use_Obsidian_Vaults](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/tree/7d51c6fd277cfe65d4ab9c18e5017ea0b5f190ad/Ready-to-use_Obsidian_Vaults)
 
 
 ## 📂 Folder Structure
