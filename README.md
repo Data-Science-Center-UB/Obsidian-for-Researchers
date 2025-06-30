@@ -48,23 +48,21 @@ Follow the instructions: https://github.com/nfuchs-DSC/Obsidian-for-Researchers/
 ## 📂 Folder Structure
 
 📁 Exercises_Learning_Obsidian <br>
- - **Learn Obsidian – Step-by-Step Instructions** <br>
+ - **learn Obsidian – step-by-step tnstructions** <br>
  
 📁 Exercises_Zettelkasten-method_with_Obsidian_Zotero_7 <br>
-- **Learning the Zettelkasten Method with Obsidian and Zotero 7 – A Step-by-Step Guide** <br>
+- **learning the Zettelkasten method with Obsidian and Zotero 7 – a step-by-step guide** <br>
 
 📁 Materials-for-Exercises <br>
-- **Templates and Resources for the Exercises** <br>
+- **templates and resources for the exercises** <br>
 
 📁 Ready-to-Use_Obsidian_Vaults <br>
-- **Vaults based on the Provided Instructions** <br>
+- **vaults based on the provided instructions** <br>
 
 📄 README.md <br>
-- **Start by reading the README file** <br>
+- **start by reading the README file** <br>
 
 ## 💬 Feedback and Contribution
-
-This repository is currently in a **testing phase**. The official first version will be released in **July 2025**.
 
 If you'd like to give feedback, report issues, or suggest improvements, please use the [Issues](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/issues) section of the repository.  
 
