@@ -68,7 +68,7 @@ If you'd like to give feedback, report issues, or suggest improvements, please u
 
 Thank you for helping improve this resource!
 
-## 📄 Acknowledgements
-This repository would not have been possible without the vibrant Obsidian community on Discord, Reddit, YouTube, and the Obsidian Forum. Thank you for every contribution that has allowed me to learn and grow.
+## 👏 Acknowledgements
+This repository would not have been possible without the vibrant Obsidian community on Discord, Reddit, YouTube, and the Obsidian Forum. Thank you for every contribution that has allowed me to learn and grow. I stand on your shoulders.
 
 
