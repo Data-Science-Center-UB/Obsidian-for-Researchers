@@ -16,7 +16,7 @@ A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
 - Transferring literature-based knowledge into your Vault
 - Building a personal system for long-term academic thinking and writing
 
-❗️The second exercise builds on the settings of the first. Starting exclusively with the second exercise is at your own risk.
+❗️The second exercise builds on the settings of the first. Doing only the second exercise is at your own risk.
 
 **Each resource is available in two formats:**
 
