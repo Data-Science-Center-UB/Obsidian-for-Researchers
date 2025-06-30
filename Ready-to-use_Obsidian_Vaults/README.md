@@ -2,8 +2,8 @@
 
 1. **Download the Zip Folder from GitHub Repository**:
    - Go to the the folder you want to download.
-   - Click on the green "Code" button.
-   - Select "Download ZIP" from the dropdown menu.
+   - Click on the three vertical dots in the top right corner.
+   - Select "Download" from the dropdown menu.
    - Save the zip file to a desired location on your computer.
 
 2. **Unpack the Provided Folder**:
