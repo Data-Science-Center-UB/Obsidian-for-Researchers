@@ -60,7 +60,7 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 **EITHER**
 
 3. **Create a note called "Template_Daily_Note" and move it into the "TEMPLATES" folder.**
-4. **Select one of the templates from the GitHub folder "Obsidian-for-Researcher/Materials-for-the-Exercises/Templates" and copy the content into the note you have created:**
+4. **Select one of the templates from the GitHub folder "Obsidian-for-Researchers/Materials-for-the-Exercises/Templates" and copy the content into the note you have created:**
 
    [Daily Note Basic](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/blob/7495e7b4582fdaf896b12761988c5e9b1421e2de/Materials-for-the-Exercises/Templates/Template_Daily_Note_basic.md)<br>
 	→ This template includes sections for: Daily Thoughts, New Tasks, Tasks Due Today, Upcoming Tasks, Completed Tasks, and Overdue Tasks.
