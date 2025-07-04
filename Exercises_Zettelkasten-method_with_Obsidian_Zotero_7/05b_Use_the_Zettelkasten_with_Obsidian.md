@@ -10,7 +10,7 @@
 
 1. **Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (on Windows; or open command palette with `Ctrl+P` and type `Templater: Open insert template modal`) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space"  
 
-**Note:** In most cases, the Windows hotkeys cannot be used for MacOS. You can set these up manually: Settings → Hotkeys → search for “Insert Template” → press alt + e (or Option + e on Mac)
+**Note:** In most cases, the Windows hotkeys cannot be used for MacOS. You can set these up manually: Settings → Hotkeys → search for “Templater: Open insert template modal” → press alt + e (or Option + e on Mac)
 
 *Now you see the Zettel Template in your note and you can fill it like this:*
 
@@ -30,7 +30,7 @@ Idea for introduction: Cats in space are funny.
 [[Link_to_related_Zettel]]
 ```
 
-**Tip:** To change between preview mode and source mode press **strg + p**  → "Toggle Live Preview/Source mode"
+**Tip:** To change between preview mode and source mode open the "Command palette: Open command palette" (on windows it might be **strg + p**)  → "Toggle Live Preview/Source mode"
 
 *It should look like this:* <br>
 ![8_screenshot_zettel_template](https://github.com/user-attachments/assets/576e9902-ad45-4d90-b190-7c572018d59c)
