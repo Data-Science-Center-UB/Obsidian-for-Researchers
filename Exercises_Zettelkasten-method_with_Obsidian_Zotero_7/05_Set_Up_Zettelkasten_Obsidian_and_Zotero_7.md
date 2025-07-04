@@ -115,7 +115,7 @@ tags:
 *Synchronize the citation format*
 
 1. *Zotero:* <br>
-	**Edit → Settings → Cite → Select your Citation Format and remember it (e.g. American Political Science Association)**
+	**Edit → Settings → Cite → pick a citation style that is set up on our Zotero (e.g. American Political Science Association)**
 
 2. *Obsidian:* <br>
 	**Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
