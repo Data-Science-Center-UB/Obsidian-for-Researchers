@@ -1,6 +1,6 @@
 # Obsidian-for-Researchers
 
-## 🧭 Overview
+## Overview
 This repository provides two core learning resources designed to help you use Obsidian for scientific research — whether you're just getting started or looking to enhance an existing workflow:
 
 **1. Learn the Basics of Obsidian** <br>
@@ -25,7 +25,7 @@ A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
 
 Choose the path that fits your needs.
 
-## 📝 What You’ll Learn
+## What You’ll Learn
 
 ### Exercises Learning Obsidian
 - How to install and set up Obsidian
@@ -40,7 +40,7 @@ Choose the path that fits your needs.
 - Transfer literature-based knowledge from Zotero into your Obsidian vault
 - Develop a detailed workflow using the Zettelkasten approach
 
-## 🚀 Quick Start
+## Quick Start
 It is possible to download the results of the exercises. So the Vault, which you get at the end of the first Exercise and the Vault, which is at the end of the second Exercise.
 Follow the instructions: [Ready-to-use_Obsidian_Vaults](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/tree/7d51c6fd277cfe65d4ab9c18e5017ea0b5f190ad/Ready-to-use_Obsidian_Vaults)
 
@@ -62,13 +62,13 @@ Follow the instructions: [Ready-to-use_Obsidian_Vaults](https://github.com/nfuch
 📄 README.md <br>
 - **start by reading the README file** <br>
 
-## 💬 Feedback and Contribution
+## Feedback and Contribution
 
 If you'd like to give feedback, report issues, or suggest improvements, please use the [Issues](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/issues) section of the repository.  
 
 Thank you for helping improve this resource!
 
-## 👏 Acknowledgements
+## Acknowledgements
 This repository would not have been possible without the vibrant Obsidian community on Discord, Reddit, YouTube, and the Obsidian Forum. Thank you for every contribution that has allowed me to learn and grow. I stand on your shoulders.
 
 
