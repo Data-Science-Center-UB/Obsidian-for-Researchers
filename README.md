@@ -64,7 +64,7 @@ Follow the instructions: [Ready-to-use_Obsidian_Vaults](https://github.com/nfuch
 
 ## Feedback and Contribution
 
-If you'd like to give feedback, report issues, or suggest improvements, please use the [Issues](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/issues) section of the repository.  
+If you'd like to give feedback, report issues, or suggest improvements, please use the [Issues](https://github.com/nfuchs-DSC/Obsidian-for-Researchers/issues) section of the repository or create a [pull request](https://github.com/Data-Science-Center-UB/Obsidian-for-Researchers/pulls).  
 
 Thank you for helping improve this resource!
 
