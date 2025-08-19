@@ -48,9 +48,9 @@ Remember, Obsidian keeps community plugins disabled by default ("restricted mode
 
 ## 2. Install Community Plugins for Your Daily Workflow
 
-1. Enable the community plugins: **Settings** → Click **Turn on community plugins**
+1. Enable the community plugins: **Settings** → click **Turn on community plugins**
 2. Click **Browse** → search for the plugin **"Dataview by Michael Brenan"** → install the plugin → click **Enable**
-3. Repeate this for the community plugins **"Tasks by Clare Macrae and Ilyas Landikov"** and **"Templater by SilentVoid"**
+3. Repeat this for the community plugins **"Tasks by Clare Macrae and Ilyas Landikov"** and **"Templater by SilentVoid"**
 
 ## 3. Create Folder and Notes for Your Daily Workflow
 
@@ -100,7 +100,7 @@ The message you are seeing (see screenshot below) indicates that the template pl
 *Now you finished all settings for your daily workflow. Check if everythings works quite well.* 
 1. Go to your vault and click on the left sidebar on the calendar icon ("Open today's daily note").
 2. Then a note with the template should open with the today's date.
-3. The note sould be stored in BACKEND/DAILY NOTES.
+3. The note should be stored in BACKEND/DAILY NOTES.
 
 *In the next exercise there are some tips how you can use the daily note in your workflow.*
 
@@ -117,7 +117,7 @@ New Template for daily note.
 
 ## 7. Customization (optional)
 ###### Tasks Plugin: Global task filter
-*With the current settings every task in your vault which is marked as a task (- [ ]) and has a date is shown in your daily note. You can change this with the global filter within the task plugin. There you can choose a sign or text and filter the tasks. E.g if you set there a "+" as filter just the tasks with a date and the sign "+" will be displayed in the daily note (you can choose any sign you want). You can adjust this in the settings for the task plugin.*
+*With the current settings every task in your vault which is marked as a task (- [ ]) and has a date is shown in your daily note. You can change this with the global filter within the task plugin. There you can choose a sign or text and filter the tasks. For example, if you set a "+" as the filter there, only the tasks with a date and the "+" sign  will be displayed in the daily note (you can choose any sign you want). You can adjust this in the settings for the task plugin.*
 ###### Open daily note on startup
 1. **Settings** → **Core Plugin: Daily Note** → Enable "Open daily note on startup"
 
