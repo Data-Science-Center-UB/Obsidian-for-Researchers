@@ -6,11 +6,11 @@
 
 ## Step 1: Your first "Zettel": Lunch with Colleagues
 
-*After lunch your back in your office. At lunch colleague told you about his cat and suddenly you got an idea for your article.*
+*After lunch you're back in your office. At lunch a colleague told you about his cat and suddenly you got an idea for your article.*
 
-1. **Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (on Windows; or open command palette with `Ctrl+P` and type `Templater: Open insert template modal`) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space"  
+1. **Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (on Windows; or open command palette with `Ctrl+P` and type `Templater: Open Insert Template modal`) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space"  
 
-**Note:** In most cases, the Windows hotkeys cannot be used for MacOS. You can set these up manually: Settings → Hotkeys → search for “Templater: Open insert template modal” → press alt + e (or Option + e on Mac)
+**Note:** In most cases, the Windows hotkeys cannot be used for MacOS. You can set these up manually: Settings → Hotkeys → search for “Templater: Open Insert Template modal” → press alt + e (or Option + e on Mac)
 
 *Now you see the Zettel Template in your note and you can fill it like this:*
 
@@ -39,7 +39,7 @@ Idea for introduction: Cats in space are funny.
 **Explanation of the Zettel structure**
 *This is a structure of a Zettel I like. It is not the way Luhmann did it. He had less structure in his notes, which is perfectly fine. Please choose the way it suits for you.*
 
-1: *The name of the file is important because you connect the Zettel with each other. Choose a name which reflect the overall topic of the note.*
+1: *The name of the file is important because you ==they?== connect the Zettel with each other. Choose a name which reflects the overall topic of the note.*
 
 2: *I use the [Properties](https://help.obsidian.md/properties) for the tags. With the Dataview plugin (you already installed it in the previous exercises) it is possible to query your database via tags (see exercise 05d). I use my tags to sort the Zettel into my projects.*
 
@@ -47,7 +47,7 @@ Idea for introduction: Cats in space are funny.
 
 4: *Here, I add the source or reference of the input. It can be a bibliography reference, or a link to a website, or yourself.*
 
-5: *Here, I add what output I have based on the input. It is one of the most important section for your Zettelkasten. Based on what is written here you can write paper easily by copy and paste your written text. In this section you have to think about your topic/insight which is the most important difference between an archive (where you store data) and your Zettelkasten (where you think).*
+5: *Here, I add what output I have based on the input. It is one of the most important section for your Zettelkasten. Based on what is written here, you can easily write your paper by copying and pasting your written text. In this section you have to think about your topic/insight which is the most important difference between an archive (where you store data) and your Zettelkasten (where you think).*
 
 6: *In this section you link your "Zettel" to another "Zettel". Make sure that the "Zettel" is connected to your knowledge base. Otherwise you will lose the "Zettel" between the others. Choose one or two links which relates to the topic of your note. Don't use more links, it will clutter your Graphview (see exercise 05d). By typing `[[]]` into the note, you can search through your notes to find a fitting one. For demonstration purposes, I’ve added a placeholder here.* 
 
