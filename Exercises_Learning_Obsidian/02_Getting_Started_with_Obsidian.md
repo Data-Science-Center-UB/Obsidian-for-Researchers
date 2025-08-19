@@ -10,7 +10,7 @@ Go to **Settings** → **Appearance** → First line **Base color scheme**. Chan
 - Obsidian automatically saves your notes as you type on your local device.
 - Your notes are stored as Markdown (.md) files in the folder you selected for your vault.
 
-**I highly recommend to implement a automatic back up of your Obsidian files. To protect yourself from data loss, find a second location for your data that is independent of your local device (e.g. a cloud).** Please find your individual solution here: [Back up your Obsidian files - Obsidian Help](https://help.obsidian.md/backup)
+**I highly recommend implementing an automatic back up of your Obsidian files. To protect yourself from data loss, find a second location for your data that is independent of your local device (e.g. a cloud).** Please find your individual solution here: [Back up your Obsidian files - Obsidian Help](https://help.obsidian.md/backup)
 
 ## Set yourself up
 *You will see three columns on the start screen: a few icons and the list of your created notes or folders on the left, the currently open note in the middle and the graph view on the right.*
