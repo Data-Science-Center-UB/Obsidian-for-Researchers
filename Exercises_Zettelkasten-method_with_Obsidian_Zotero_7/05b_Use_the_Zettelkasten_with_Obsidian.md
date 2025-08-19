@@ -6,7 +6,7 @@
 
 ## Step 1: Your first "Zettel": Lunch with Colleagues
 
-*After lunch you're back in your office. At lunch a colleague told you about his cat and suddenly you got an idea for your article.*
+*After lunch, you're back in your office. At lunch a colleague told you about his cat and suddenly you got an idea for your article.*
 
 1. **Create a note in the folder ZEKA/ZETTEL** → **press alt + e** (on Windows; or open command palette with `Ctrl+P` and type `Templater: Open Insert Template modal`) → **select** "Zettel_Template" → name the "Zettel" "cats_in_space"  
 
@@ -39,7 +39,7 @@ Idea for introduction: Cats in space are funny.
 **Explanation of the Zettel structure**
 *This is a structure of a Zettel I like. It is not the way Luhmann did it. He had less structure in his notes, which is perfectly fine. Please choose the way it suits for you.*
 
-1: *The name of the file is important because you ==they?== connect the Zettel with each other. Choose a name which reflects the overall topic of the note.*
+1: *The name of the file is important because they connect the Zettel with each other. Choose a name which reflects the overall topic of the note.*
 
 2: *I use the [Properties](https://help.obsidian.md/properties) for the tags. With the Dataview plugin (you already installed it in the previous exercises) it is possible to query your database via tags (see exercise 05d). I use my tags to sort the Zettel into my projects.*
 
