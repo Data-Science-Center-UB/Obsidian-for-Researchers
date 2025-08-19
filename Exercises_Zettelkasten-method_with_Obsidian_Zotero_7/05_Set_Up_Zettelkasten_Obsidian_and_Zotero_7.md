@@ -14,14 +14,14 @@
 
 ## Step 1: Settings in Zotero
 
-*With the Zotero plugin Better BibTex you can manage your bibliographic data more easily if you use a Markdown editor. The plugin automatically generates a citation key that follows a form you have selected. In Obsidian our literature note will automatically named with this citation key.*
+*With the Zotero plugin Better BibTex you can manage your bibliographic data more easily if you use a Markdown editor. The plugin automatically generates a citation key that follows a form you have selected. In Obsidian our literature note will be automatically named using this citation key.*
 
 1. **Download the .xpi file from the GitHub repository** [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v7.0.17)
 
 	[Click here for the documentation of Better BibTex](https://retorque.re/zotero-better-bibtex/index.html)
 
 2. Install Better BibTex:
-**Tools → Plugins → Settings → Install Plugin from file → select .xpi file → click open → restart zotero**
+**Tools → Plugins → Settings → Install Plugin from file → select .xpi file → click Open → restart Zotero**
 
 3. Customize Better BibTex:
 **Edit → Settings → Better BibTex → Citation key → insert:**
@@ -33,10 +33,10 @@
 	
 	*I use the prefix “z.” so that I can easily distinguish between source notes from Zotero and source notes that I have only created in Obsidian.*
 	
-	*Please visit the plugin documentation if you would like to create a different cite key.*
+	*Please visit the plugin documentation if you would like to create a different citation key.*
 
-4. **Display citation key in Zotero's Literatur List:**
-**Right-click on bar "Titel | Creator | Attachment" → select citation key** <br>
+4. **Display citation key in Zotero's Literature List:**
+**Right-click on bar "Titel | Creator | Attachment" → select Citation key** <br>
 	*Now you can see the citation key for each of your reference.*
 
 5. **Document all settings in your CHANGELOG**
@@ -45,7 +45,7 @@
 
 1. **Create a folder** named "ZEKA" → **Create inside the folder "ZEKA" the folders** "SOURCE_NOTES" and "ZETTEL"
 2. **Community plugins → Browse → Zotero Integration by mgmeyers → Install → Enable**
-3. **Open Zotero Integration Settings → Enable "Open the created note after import"**
+3. **Open Zotero Integration Settings → enable "Open the created note after import"**
 4. **Open Zotero Integration Settings → set the "Note Import Location" to "ZEKA/SOURCE_NOTES"**
 5. **Document all settings in your CHANGELOG**
 
@@ -118,7 +118,7 @@ tags:
 	**Edit → Settings → Cite → pick a citation style that is set up on our Zotero (e.g. American Political Science Association)**
 
 2. *Obsidian:* <br>
-	**Settings → Zotero Integration → Citation Format → Add Citation Format → Select the same as in Zotero**
+	**Settings → Zotero Integration → Citation Format → Add Citation Format → select the same as in Zotero**
 
 	**Import Formats → Add Import Format** <br>
 		**Name:** Add Source Notes <br>
