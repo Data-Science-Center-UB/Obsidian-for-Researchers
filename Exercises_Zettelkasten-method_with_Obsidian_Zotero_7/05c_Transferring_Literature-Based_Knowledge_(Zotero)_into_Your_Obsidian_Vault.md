@@ -49,7 +49,7 @@ Before creating your third *Zettel*, open **Zotero**.
 1. **Under the section containing the abstract, write the following link:**
 	`[[flying_cats_acient_mythology_and_modern_aera]]`
 
-2. **Click the link and create a new note** → **Press** ALT + E → **Select** "Zettel_Template" or **Press** ctr + p → "Templater: Open insert template modal → **Select** "Zettel_Template"
+2. **Click the link and create a new note** → **press** ALT + E → **select** "Zettel_Template" or **press** ctr + p → "Templater: Open Insert Template modal → **select** "Zettel_Template"
 
 3. **Cut and paste the content in the "Zettel"** as shown below.  
 	*(You don’t need to fill in the reference section — backlinks will cover this.)*
@@ -79,7 +79,7 @@ Before creating your third *Zettel*, open **Zotero**.
 
 *Here you can now see all the connections between the slips of paper. If you already have a lot of notes on a topic, you can consider whether it is worth creating an index page for the topic.*
 
-*To display all notes for a specific tag, you can create a new group in the graph view settings and assign a specific color to the day.*
+*To display all notes for a specific tag, you can create a new group in the graph view settings and assign a specific color to the day == day or tag?==.*
    
 ## Step 5: Create a Subject Index
 
