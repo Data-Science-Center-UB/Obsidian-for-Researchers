@@ -31,7 +31,7 @@ Choose the path that fits your needs.
 - How to install and set up Obsidian
 - Basic configuration of your Obsidian vault
 - Use the Daily Note with a template to organize and track your tasks
-- Connect and structure your knowledge: insert links, URLs, and local files; use the graph view and tags
+- Connect and structure your knowledge: Insert links, URLs, and local files; use the graph view and tags
 
 ### Exercises Zettelkasten-method with Obsidian and Zotero 7
 - Connect Obsidian and Zotero 7 using the plugins [Better BibTeX](https://retorque.re/zotero-better-bibtex/index.html) (Zotero) and [Zotero Integration by mgmeyers](https://github.com/mgmeyers/obsidian-zotero-integration) (Obsidian), and configure them for your Zettelkasten system
@@ -48,7 +48,7 @@ Follow the instructions: [Ready-to-use_Obsidian_Vaults](https://github.com/nfuch
 ## 📂 Folder Structure
 
 📁 Exercises_Learning_Obsidian <br>
- - **learn Obsidian – step-by-step tnstructions** <br>
+ - **learn Obsidian – step-by-step instructions** <br>
  
 📁 Exercises_Zettelkasten-method_with_Obsidian_Zotero_7 <br>
 - **learning the Zettelkasten method with Obsidian and Zotero 7 – a step-by-step guide** <br>
