@@ -79,7 +79,7 @@ Before creating your third *Zettel*, open **Zotero**.
 
 *Here you can now see all the connections between the slips of paper. If you already have a lot of notes on a topic, you can consider whether it is worth creating an index page for the topic.*
 
-*To display all notes for a specific tag, you can create a new group in the graph view settings and assign a specific color to the day == day or tag?==.*
+*To display all notes for a specific tag, you can create a new group in the graph view settings and assign a specific color to the tag.*
    
 ## Step 5: Create a Subject Index
 
