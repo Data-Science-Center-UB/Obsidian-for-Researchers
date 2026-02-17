@@ -1,22 +1,22 @@
 
-*This manual is written for **Zotero 7.0***
+*This manual is written for **Zotero 8***
 
 *The following plugins are used:*
-- *Zotero: Better BibTex*
-- *Obsidian: Zotero Integration*
+- *Zotero: Better BibTex v8.0.13*
+- *Obsidian: Zotero Integration 3.2.1*
 
 *Following workflow is possible with this set up:*
 - *Read and annotate your texts in Zotero.*
 - *Import tags, bibliographic data, abstract, link to the Zotero file, annotations and comments in the annotations in Obsidian.*
 - *Set up for Zettelkasten-Method (Niklas Luhmann)*
 
-*The naming convention is based on the exercises 1-4 in this GitHub Repo and also the settings in this exercises might be important for this exercise. Feel free to adapt this to your needs.*
+*The naming convention is based on the exercises 1-4 in this GitHub Repo and also the settings in this exercises might be important for this exercise. Feel free to adapt everything to your specific needs.*
 
 ## Step 1: Settings in Zotero
 
 *With the Zotero plugin Better BibTex you can manage your bibliographic data more easily if you use a Markdown editor. The plugin automatically generates a citation key that follows a form you have selected. In Obsidian our literature note will be automatically named using this citation key.*
 
-1. **Download the .xpi file from the GitHub repository** [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v7.0.17)
+1. **Download the .xpi file from the GitHub repository** [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex/releases)
 
 	[Click here for the documentation of Better BibTex](https://retorque.re/zotero-better-bibtex/index.html)
 
@@ -36,7 +36,7 @@
 	*Please visit the plugin documentation if you would like to create a different citation key.*
 
 4. **Display citation key in Zotero's Literature List:**
-**Right-click on bar "Titel | Creator | Attachment" → select Citation key** <br>
+**Right-click on bar "Title | Creator | Attachment" → select Citation key** <br>
 	*Now you can see the citation key for each of your reference.*
 
 5. **Document all settings in your CHANGELOG**
@@ -62,29 +62,48 @@ tags: {% if allTags %}{{allTags}}{% endif %}
 created: {{importDate|format("YYYY-MM-DD")}}
 ---
 
+# {{title}}
 
-### Titel: {{title}}
+## Bibliographic Information
 
 **Authors:** {{authors}}
 
 **Reference:** {{bibliography}}
 **Zotero Link:** {{pdfZoteroLink}}
 
-> [!NOTE]- Abstract
-> {{abstractNote}}
+{% if abstractNote %}
+>[!NOTE]- Abstract
+>{{abstractNote}}
+{% endif %}
 
+---
+<!-- 
+Template Note: 
+- Highlighted text from Zotero PDFs is displayed in *italic*.
+- Comments or notes associated with highlights are displayed in normal (non-italic) text.
+- This ensures that you can quickly distinguish between the original highlighted text and your comments.
+-->
 
 {% for annotation in annotations -%} 
-{%- if annotation.annotatedText -%}*{{annotation.annotatedText}}*([p.{{annotation.pageLabel}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}}))
-{% endif %}{% if annotation.imageRelativePath %}![[{{annotation.imageRelativePath}}]]{% endif %}
-{% if annotation.comment %}{{annotation.comment}}{%- endif %} 
-{% if annotation.hashTags %}{{annotation.hashTags}}{%- endif %} 
-
+{%- if annotation.annotatedText -%}
+*{{annotation.annotatedText}}* (p.{{annotation.pageLabel}})
+{% endif %}
+{% if annotation.imageRelativePath %}
+![[{{annotation.imageRelativePath}}]]
+{% endif %}
+{% if annotation.comment %}
+{{annotation.comment}}
+{% endif %}
+{% if annotation.hashTags %}
+{{annotation.hashTags}}
+{% endif %}
 {% endfor %}
+
 ```
 
 **The template generates this output:**
-![7_screenshot_zotero_template](https://github.com/user-attachments/assets/2cfabc3e-0f57-4626-8091-70c1d1e7a70e)
+
+<img width="741" height="607" alt="image" src="https://github.com/user-attachments/assets/73c7d58e-87dc-48b8-bf4c-6acbdfda0dfe" />
 
 
 2. **Document all settings in your CHANGELOG**
