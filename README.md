@@ -10,9 +10,9 @@ You’ll learn how to:
 - Use templates to streamline your daily workflow
 - Organize and track tasks efficiently
 
-**2. Apply the Zettelkasten Method with Obsidian and Zotero 7** <br>
+**2. Apply the Zettelkasten Method with Obsidian and Zotero 8** <br>
 A complete setup inspired by Niklas Luhmann’s Zettelkasten method, including:
-- Connecting Obsidian with Zotero 7
+- Connecting Obsidian with Zotero 8
 - Transferring literature-based knowledge into your Vault
 - Building a personal system for long-term academic thinking and writing
 
@@ -33,8 +33,8 @@ Choose the path that fits your needs.
 - Use the Daily Note with a template to organize and track your tasks
 - Connect and structure your knowledge: Insert links, URLs, and local files; use the graph view and tags
 
-### Exercises Zettelkasten-method with Obsidian and Zotero 7
-- Connect Obsidian and Zotero 7 using the plugins [Better BibTeX](https://retorque.re/zotero-better-bibtex/index.html) (Zotero) and [Zotero Integration by mgmeyers](https://github.com/mgmeyers/obsidian-zotero-integration) (Obsidian), and configure them for your Zettelkasten system
+### Exercises Zettelkasten-method with Obsidian and Zotero 8
+- Connect Obsidian and Zotero 8 using the plugins [Better BibTeX](https://retorque.re/zotero-better-bibtex/index.html) (Zotero) and [Zotero Integration by mgmeyers](https://github.com/mgmeyers/obsidian-zotero-integration) (Obsidian), and configure them for your Zettelkasten system
 - Introduction to Niklas Luhmann’s Zettelkasten method
 - Apply the Zettelkasten method in Obsidian
 - Transfer literature-based knowledge from Zotero into your Obsidian vault
@@ -51,7 +51,7 @@ Follow the instructions: [Ready-to-use_Obsidian_Vaults](https://github.com/nfuch
  - **learn Obsidian – step-by-step instructions** <br>
  
 📁 Exercises_Zettelkasten-method_with_Obsidian_Zotero_7 <br>
-- **learning the Zettelkasten method with Obsidian and Zotero 7 – a step-by-step guide** <br>
+- **learning the Zettelkasten method with Obsidian and Zotero 8 – a step-by-step guide** <br>
 
 📁 Materials-for-Exercises <br>
 - **templates and resources for the exercises** <br>
