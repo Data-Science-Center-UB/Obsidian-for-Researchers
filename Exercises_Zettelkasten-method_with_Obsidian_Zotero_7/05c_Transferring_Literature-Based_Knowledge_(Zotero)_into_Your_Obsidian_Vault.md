@@ -64,7 +64,7 @@ Before creating your third *Zettel*, open **Zotero**.
    **Note:** Copy the tag in the line "tags" without the #
 7. **In the end it might look like this:**
 
-![12_screenshot_toth_verzettelt](https://github.com/user-attachments/assets/9eebedcc-d96c-4655-966f-bdde79758eaa)
+<img width="588" height="752" alt="image" src="https://github.com/user-attachments/assets/679bff78-7da4-43b3-83a0-2993928322ba" />
 
 
 ## Step 4: Use the Graph View for your Zettelkasten
